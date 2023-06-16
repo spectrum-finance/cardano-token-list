@@ -6,12 +6,12 @@
   "author": "Spectrum Finance",
   "license": "GPL-3.0-or-later",
   "scripts": {
-    "build": "yarn updt:registry && yarn prebuild",
-    "prebuild": "node index.js",
-    "test": "mocha",
-    "updt:registry": "cd cardano-token-registry && git pull origin master"
+    "build": "yarn upgrade github:cardano-foundation/cardano-token-registry && node index.js",
+    "test": "mocha"
   },
-  "dependencies": {},
+  "dependencies": {
+    "cardano-token-registry": "github:cardano-foundation/cardano-token-registry"
+  },
   "devDependencies": {
     "ajv": "^8.12.0",
     "ajv-formats": "^2.1.1",
