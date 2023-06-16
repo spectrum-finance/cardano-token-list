@@ -9,7 +9,7 @@ This package includes a JSON schema for token list used in the Cardano side of t
 The JSON schema represents the technical specification for a token list which can be used in a cross-chain dApp
 interface, such as the Spectrum Finance Interface.
 
-The JSON schema ID is https://spectrum.fi/tokenlist.schema.json
+The JSON schema ID is [https://spectrum.fi/tokenlist.cardano.schema.json](https://spectrum.fi/tokenlist.cardano.schema.json)
 
 ## Semantic versioning
 
