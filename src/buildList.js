@@ -1,38 +1,6 @@
 const {version} = require("../package.json");
-const ergo = require("./tokens/ergo.json");
-const cardano = require("./tokens/cardano.json");
-const fs = require("fs");
-const path = require("path");
-
-function parseCardanoTokenRegistry() {
-    let list = [];
-
-    fs.readdirSync(path.join(__dirname, "../cardano-token-registry/mappings")).forEach((fileName, index) => {
-        const file = fs.readFileSync(path.join(__dirname, `../cardano-token-registry/mappings/${fileName}`));
-        const json = JSON.parse(file.toString())
-
-        let policyId = '';
-        const token = {};
-
-        if (json.subject) {
-            const pid = json.subject.slice(0, 56);
-            token.policyId = pid;
-            token.subject = json.subject;
-            policyId = pid;
-        } else {
-            return;
-        }
-
-        if (json.name && json.name.value) token.name = json.name.value;
-        if (json.description && json.description.value) token.description = json.description.value;
-        if (json.ticker && json.ticker.value) token.ticker = json.ticker.value;
-        if (json.decimals && json.decimals.value) token.decimals = json.decimals.value;
-
-        list.push(token);
-    })
-
-    return list;
-}
+const cardano = require("./tokens.json");
+const parseCardanoTokenRegistry = require('./utils/parseCardanoTokenRegistry.js')
 
 function sortList(list) {
     return list.sort(function(t1, t2) {
@@ -44,21 +12,12 @@ function sortList(list) {
     });
 }
 
-function mergeByPolicyId(cardanoRegistryList, tokenList) {
+function mergeBySubject(cardanoRegistryList, tokenList) {
     return cardanoRegistryList.map((token) => {
         return {
             ...token,
-            ...tokenList[token.policyId],
+            ...tokenList[token.subject],
         };
-    })
-}
-
-function makeErgoList(list) {
-    return Object.keys(list).map((key) => {
-        return {
-            address: key,
-            ...list[key]
-        }
     })
 }
 
@@ -68,7 +27,7 @@ module.exports = function buildTokenList() {
     const cardanoRegistryList = parseCardanoTokenRegistry()
 
     return {
-        name: 'Spectrum Finance Token List',
+        name: 'Spectrum Finance Cardano Token List',
         timestamp: new Date().toISOString(),
         version: {
             major: +parsedVersion[0],
@@ -76,10 +35,7 @@ module.exports = function buildTokenList() {
             patch: +parsedVersion[2],
         },
         tags: {},
-        keywords: ['spectrum finance', 'tokens', 'default'],
-        tokens: {
-            ergo: sortList(makeErgoList(ergo)),
-            cardano: sortList(mergeByPolicyId(cardanoRegistryList, cardano)),
-        }
+        keywords: ['spectrum finance', 'tokens', 'cardano tokens'],
+        tokens: sortList(mergeBySubject(cardanoRegistryList, cardano))
     };
 }

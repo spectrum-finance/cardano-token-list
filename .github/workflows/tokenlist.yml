@@ -2,7 +2,7 @@ name: Release token list
 on:
   push:
     branches:
-      - "master"
+      - "main"
 jobs:
   release:
     name: Push default token list

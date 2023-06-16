@@ -1,13 +1,15 @@
 {
-  "name": "cardano-token-list",
+  "name": "@spectrum-finance/cardano-token-list",
   "version": "1.0.0",
   "description": "Spectrum Finance Cardano token list",
   "main": "index.js",
   "author": "Spectrum Finance",
   "license": "GPL-3.0-or-later",
   "scripts": {
-    "build": "node index.js",
-    "test": "mocha"
+    "build": "yarn updt:registry && yarn prebuild",
+    "prebuild": "node index.js",
+    "test": "mocha",
+    "updt:registry": "cd cardano-token-registry && git pull origin master"
   },
   "dependencies": {},
   "devDependencies": {

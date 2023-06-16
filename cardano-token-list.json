@@ -1,0 +1,3131 @@
+{
+  "name": "Spectrum Finance Cardano Token List",
+  "timestamp": "2023-06-14T14:49:36.022Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "keywords": [
+    "spectrum finance",
+    "tokens",
+    "cardano tokens"
+  ],
+  "tokens": [
+    {
+      "policyId": "f20ac9613ecebffc678a99734aa96b93f3b3b688fa6a5b57fa4fad42",
+      "subject": "f20ac9613ecebffc678a99734aa96b93f3b3b688fa6a5b57fa4fad42436172646142756c6c696573546f6b656e",
+      "description": "Official CardaBullies token",
+      "name": "CardaBullies Token",
+      "ticker": "$BULLY",
+      "decimals": 0
+    },
+    {
+      "policyId": "cdaaee586376139ee8c3cc4061623968810d177ca5c300afb890b48a",
+      "subject": "cdaaee586376139ee8c3cc4061623968810d177ca5c300afb890b48a43415354",
+      "description": "Utility Token for Carda Station Metaverse",
+      "name": "Carda Station Token",
+      "ticker": "$CAST",
+      "decimals": 0
+    },
+    {
+      "policyId": "468374d777de69e14cae56a66ceb73e31ae65a4f81ec03af9c64bede",
+      "subject": "468374d777de69e14cae56a66ceb73e31ae65a4f81ec03af9c64bede434754",
+      "description": "Cardano Gamers token is the official native currency for interacting and participating in the Cardano Gamers ecosystem activities. The $CGT token is what is used to take part in lottery syndicates and in-house games. The Cardano Gamers token will gain future utility as the project progresses forward",
+      "name": "Cardano Gamers",
+      "ticker": "$CGT",
+      "decimals": 0
+    },
+    {
+      "policyId": "c8e4a73d9e38eb89b7587ca4fa334cf89162d4b1a994f509a328bba2",
+      "subject": "c8e4a73d9e38eb89b7587ca4fa334cf89162d4b1a994f509a328bba2244452414d41",
+      "description": "Official token for Crypto-Related Drama",
+      "name": "Drama Token",
+      "ticker": "$DRAMA",
+      "decimals": 0
+    },
+    {
+      "policyId": "32f3ca81d7165dbba91d3af0cfe1e1946abb8c9778871c8c49c0ef80",
+      "subject": "32f3ca81d7165dbba91d3af0cfe1e1946abb8c9778871c8c49c0ef806379626572474f4c44",
+      "description": "cyberGOLD is the cryptocurrency of the future!\n\ncyberGOLD is limited to 1 million coins!\n\nTake part in this exciting experiment.\n\nMinted on the CARDANO blockchain.",
+      "name": "cyberGOLD",
+      "ticker": "$GOLD",
+      "decimals": 6
+    },
+    {
+      "policyId": "77306a15c346e0c2a86298d94403233356623dd678cac0cdeaca8361",
+      "subject": "77306a15c346e0c2a86298d94403233356623dd678cac0cdeaca8361686f727578",
+      "description": "Horux - Empowering communities trusting in unity.",
+      "name": "Horux Token",
+      "ticker": "$horux",
+      "decimals": 0
+    },
+    {
+      "policyId": "27d186f31d8f0cbaae40081821ce26539a14d27dd9c840a30e77848c",
+      "subject": "27d186f31d8f0cbaae40081821ce26539a14d27dd9c840a30e77848c4c495a444157",
+      "description": "LIZDAW",
+      "name": "$LIZDAW",
+      "ticker": "$LIZ",
+      "decimals": 4
+    },
+    {
+      "policyId": "012d80d846ef2563d02dbb5d1a2b99f621167dbec4a9e48c4b232105",
+      "subject": "012d80d846ef2563d02dbb5d1a2b99f621167dbec4a9e48c4b232105535047",
+      "description": "Spider Pig...Spider Pig, Just HODL and enjoy your rewards!",
+      "name": "SPIDERPIGGY",
+      "ticker": "$SPG",
+      "decimals": 0
+    },
+    {
+      "policyId": "b18818297210aaff5e5689f18a147d5ac202341f2d26591ca0e5304f",
+      "subject": "b18818297210aaff5e5689f18a147d5ac202341f2d26591ca0e5304f36474f44",
+      "description": "Stackin' up memes, I'm talkin' bout that 6 God flow, Crypto on my mind, watchin' profits grow.",
+      "name": "6GOD",
+      "ticker": "6GOD",
+      "decimals": 0
+    },
+    {
+      "policyId": "fd1d399f2802dde21b252024aebf702c8f0447751e5133764bfabdd9",
+      "subject": "fd1d399f2802dde21b252024aebf702c8f0447751e5133764bfabdd93862616c6c",
+      "description": "The epitome of cool",
+      "name": "8ball",
+      "ticker": "8BALL",
+      "decimals": 0
+    },
+    {
+      "policyId": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f69587",
+      "subject": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
+      "description": "Aada Finance is a Decentralized, non-custodial, NFT-bond based Lending and Borrowing protocol built on Cardano. AADA Token allows to participate in Aada's governance, on-site staking, and pay fees in the NFT-bond marketplace.",
+      "name": "Aada DAO Token",
+      "ticker": "AADA",
+      "decimals": 6,
+      "assetName": "AADA",
+      "project": "Aada Finance"
+    },
+    {
+      "policyId": "acc37b7ef2b3bb7855a7ba66ad3a242771092463e184d26f63217208",
+      "subject": "acc37b7ef2b3bb7855a7ba66ad3a242771092463e184d26f63217208414245",
+      "description": "A currency for Adabet betting platform",
+      "name": "Adabet betting platform token",
+      "ticker": "ABE",
+      "decimals": 6
+    },
+    {
+      "policyId": "57be8136e050a8b79a03b10bc2b97c9cc47af77352227bfe14b74ab7",
+      "subject": "57be8136e050a8b79a03b10bc2b97c9cc47af77352227bfe14b74ab74d6574617370616365706164",
+      "description": "Decentralized Metaverse IDO platform on the Cardano Blockchain",
+      "name": "Metaspacepad",
+      "ticker": "ACE",
+      "decimals": 6
+    },
+    {
+      "policyId": "7807209cec9f79c9f6cf5bea2ab7826e6e46b6a7583a337b7e20fb36",
+      "subject": "7807209cec9f79c9f6cf5bea2ab7826e6e46b6a7583a337b7e20fb36",
+      "description": "Utility token for Liqwid Ada market",
+      "name": "Liqwid Ada Action",
+      "ticker": "AdaAXN",
+      "decimals": 0
+    },
+    {
+      "policyId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9",
+      "subject": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf961646168756e677279",
+      "description": "The sender of this token is Ada-Hungry",
+      "name": "Ada-Hungry",
+      "ticker": "ADAhu",
+      "decimals": 0
+    },
+    {
+      "policyId": "2550dc1d994764588e17bef9639d20fd380eed6f923ec1fae4f32a67",
+      "subject": "2550dc1d994764588e17bef9639d20fd380eed6f923ec1fae4f32a674144414c414d424f",
+      "description": "WEN ADALAMBO?",
+      "name": "ADA LAMBO",
+      "ticker": "ADALAMBO",
+      "decimals": 0
+    },
+    {
+      "policyId": "3c9ee71d8f14b386df802f4121d82746df5508e29198744bea7552ef",
+      "subject": "3c9ee71d8f14b386df802f4121d82746df5508e29198744bea7552ef",
+      "description": "Utility token for Liqwid Ada market",
+      "name": "Liqwid Ada Liquidation",
+      "ticker": "AdaLIQ",
+      "decimals": 0
+    },
+    {
+      "policyId": "e6f464202e7c89befd79fdd3905ca96c896772721485dff66fd6b2d2",
+      "subject": "e6f464202e7c89befd79fdd3905ca96c896772721485dff66fd6b2d24144414c4f54",
+      "description": "Here's how it works: If you hold $ADALOT in your Cardano wallet, you're automatically eligible to participate in the Daily Lottery.",
+      "name": "AdaLot",
+      "ticker": "ADALOT",
+      "decimals": 0
+    },
+    {
+      "policyId": "fc9d87d74e61073c87957079037842ad56c3e01b53e06993b43b0d9e",
+      "subject": "fc9d87d74e61073c87957079037842ad56c3e01b53e06993b43b0d9e4164616d616e7469756d",
+      "description": "The hardest and most valuable cryptocurrency in the Metaverse",
+      "name": "ADAmantium Token",
+      "ticker": "ADAM",
+      "decimals": 6
+    },
+    {
+      "policyId": "dba8e004cdec2ac9d53b8aad67b1d6527dffe99a2efe3a1ea04a00d2",
+      "subject": "dba8e004cdec2ac9d53b8aad67b1d6527dffe99a2efe3a1ea04a00d24144414d415253",
+      "description": "Currency for the Mars Colonies",
+      "name": "ADAMARS",
+      "ticker": "ADAMARS",
+      "decimals": 0
+    },
+    {
+      "policyId": "a561173b1e3f145933f94351f79e16b6f90dc8d549ac6f26867233c0",
+      "subject": "a561173b1e3f145933f94351f79e16b6f90dc8d549ac6f26867233c04144415045",
+      "description": "Cardano Meme Token",
+      "name": "ADAPE Token",
+      "ticker": "ADAPE",
+      "decimals": 0
+    },
+    {
+      "policyId": "24f51a8308b4e47b9d1438ec1e91da4ee063c38c704b530cba4adc5b",
+      "subject": "24f51a8308b4e47b9d1438ec1e91da4ee063c38c704b530cba4adc5b",
+      "description": "Utility token for Liqwid Ada market",
+      "name": "Liqwid Ada MarketParams",
+      "ticker": "AdaPRM",
+      "decimals": 0
+    },
+    {
+      "policyId": "5a3cb4f52fb3a00ab5abe62080618623811ccafab9c760d0b686e44c",
+      "subject": "5a3cb4f52fb3a00ab5abe62080618623811ccafab9c760d0b686e44c",
+      "description": "Utility token for Liqwid Ada market",
+      "name": "Liqwid Ada MarketState",
+      "ticker": "AdaST",
+      "decimals": 0
+    },
+    {
+      "policyId": "66f42b660c9b3283451a531daf22f19f6515e347e0dd46ac725bf3c9",
+      "subject": "66f42b660c9b3283451a531daf22f19f6515e347e0dd46ac725bf3c9414441585554494c4954594e46544c4556454c32",
+      "description": "ADAX Utility NFT introduced for the usage of community - Level 2",
+      "name": "ADAX UTILITY NFT LEVEL2",
+      "ticker": "ADAXUTL2",
+      "decimals": 0
+    },
+    {
+      "policyId": "91fbce324827fcb04240e95772277225997fde8af6bfebd16b3f381c",
+      "subject": "91fbce324827fcb04240e95772277225997fde8af6bfebd16b3f381c4469676974616c4b617368",
+      "description": "DigitalKash [DKASH] Official Wrapped Token",
+      "name": "Digitalkash",
+      "ticker": "aDKASH",
+      "decimals": 0
+    },
+    {
+      "policyId": "5ad8deb64bfec21ad2d96e1270b5873d0c4d0f231b928b4c39eb2435",
+      "subject": "5ad8deb64bfec21ad2d96e1270b5873d0c4d0f231b928b4c39eb243561646f736961",
+      "description": "Adosia brings IoT utility to the Cardano blockchain to enable new economic opportunities",
+      "name": "Adosia",
+      "ticker": "ADO",
+      "decimals": 6
+    },
+    {
+      "policyId": "e5602dec7811774ee560859292c20c3694a19d5daf72ccd94fc1a18d",
+      "subject": "e5602dec7811774ee560859292c20c3694a19d5daf72ccd94fc1a18d414743",
+      "description": "The AGC token is our in-game currency that will run our economy.",
+      "name": "All Games Coin",
+      "ticker": "AGC",
+      "decimals": 6
+    },
+    {
+      "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+      "subject": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
+      "description": "SingularityNET lets anyone - create, share, and monetize AI services at scale. SingularityNET is the world's first decentralized AI network",
+      "name": "SingularityNet AGIX Token",
+      "ticker": "AGIX",
+      "decimals": 8
+    },
+    {
+      "policyId": "99001cc5f9677eaaadfb77893a3a9c6b1a3f9f7246771451a068160d",
+      "subject": "99001cc5f9677eaaadfb77893a3a9c6b1a3f9f7246771451a068160d414952",
+      "description": "Air Crypto is a utility based token, developed to ease the transition of using your crypto wealth for Air, Hotel and Travel.",
+      "name": "Air Crypto",
+      "ticker": "AIR",
+      "decimals": 0
+    },
+    {
+      "policyId": "2cee564c6bac94da9a9b8f090c2125e099dbdc76cd5abe4d62a37ff6",
+      "subject": "2cee564c6bac94da9a9b8f090c2125e099dbdc76cd5abe4d62a37ff6414b454d49",
+      "description": "The Official Akemi Token",
+      "name": "AKEMI",
+      "ticker": "AKEMI",
+      "decimals": 6
+    },
+    {
+      "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+      "subject": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673414c444541",
+      "description": "ALDEA, la DAO de América Latina.",
+      "name": "ALDEA",
+      "ticker": "ALDEA",
+      "decimals": 6
+    },
+    {
+      "policyId": "4fc109e92849557e05989bfe1e3bb0f54e4ea40d05fda2caffe4c765",
+      "subject": "4fc109e92849557e05989bfe1e3bb0f54e4ea40d05fda2caffe4c765416c64657261616e",
+      "description": "The galaxy knows Alderaan as the planet of beauty, nature, poetry",
+      "name": "Alderaan",
+      "ticker": "ALDRN",
+      "decimals": 4
+    },
+    {
+      "policyId": "e96a733028be2c80169c0934cee51d036dc7b978580fa4c65d0b3d47",
+      "subject": "e96a733028be2c80169c0934cee51d036dc7b978580fa4c65d0b3d47414d4f475553",
+      "description": "Official AMOGUS token",
+      "name": "AMOGUS Coin",
+      "ticker": "AMOGUS",
+      "decimals": 0
+    },
+    {
+      "policyId": "34ccb1309297c9646b31579f001e0e18ea4136d93a68ad299bed7a99",
+      "subject": "34ccb1309297c9646b31579f001e0e18ea4136d93a68ad299bed7a99416e6f6e796d6f7573",
+      "description": "Anonymous",
+      "name": "Anonymous",
+      "ticker": "Anonymous",
+      "decimals": 6
+    },
+    {
+      "policyId": "afc910d7a306d20c12903979d4935ae4307241d03245743548e76783",
+      "subject": "afc910d7a306d20c12903979d4935ae4307241d03245743548e767834153484942",
+      "description": "ADA Shiba Inu is the 2.0 version of Shiba Inu built on Cardano",
+      "name": "ADA Shiba Inu",
+      "ticker": "ASHIB",
+      "decimals": 6
+    },
+    {
+      "policyId": "70b69d06e51de2b7329a72357e57d94cc8f1d142637c7cb3ea4705ac",
+      "subject": "70b69d06e51de2b7329a72357e57d94cc8f1d142637c7cb3ea4705ac41564f",
+      "description": "Straight outta the avo-hood, servin' up guetto goodness like a true gangsta! We don't play it safe, we bring the street vibe to your palate. \r\nRedefining freshness with a touch of gangsta swag!",
+      "name": "Avoguetto",
+      "ticker": "AVO",
+      "decimals": 0
+    },
+    {
+      "policyId": "165075684dedee0deb65d961f9224e0f33072655ed6dd006d7e5e996",
+      "subject": "165075684dedee0deb65d961f9224e0f33072655ed6dd006d7e5e99641574f4a414b",
+      "description": "Introducing the Wojak Meme Coin, a unique and captivating digital currency built on the robust Cardano blockchain. Inspired by the iconic Wojak character, this innovative token combines the power of memes and decentralized technology to create a dynamic community-driven cryptocurrency.",
+      "name": "Wojak Coin Ada",
+      "ticker": "AWOJAK",
+      "decimals": 0
+    },
+    {
+      "policyId": "09f5f55fcad17503e6b7acc81de7c80f84b76e76d17085f0e32f1ce2",
+      "subject": "09f5f55fcad17503e6b7acc81de7c80f84b76e76d17085f0e32f1ce241574f4f",
+      "description": "The Official Unbothered Wolves Token",
+      "name": "AWOO Token",
+      "ticker": "AWOO",
+      "decimals": 6
+    },
+    {
+      "policyId": "d4d256db551bd4555625d1753c2a2503962e634de61cc8d2617e30d8",
+      "subject": "d4d256db551bd4555625d1753c2a2503962e634de61cc8d2617e30d831303030424c4f434b4e4f5445",
+      "description": "Cardano Blockchain Cash",
+      "name": "1000BLOCKNOTE",
+      "ticker": "B1000",
+      "decimals": 0
+    },
+    {
+      "policyId": "d4d256db551bd4555625d1753c2a2503962e634de61cc8d2617e30d8",
+      "subject": "d4d256db551bd4555625d1753c2a2503962e634de61cc8d2617e30d832303030424c4f434b4e4f5445",
+      "description": "Cardano Blockchain Cash",
+      "name": "2000BLOCKNOTE",
+      "ticker": "B2000",
+      "decimals": 0
+    },
+    {
+      "policyId": "d4d256db551bd4555625d1753c2a2503962e634de61cc8d2617e30d8",
+      "subject": "d4d256db551bd4555625d1753c2a2503962e634de61cc8d2617e30d83530424c4f434b4e4f5445",
+      "description": "Cardano Blockchain Cash",
+      "name": "50BLOCKNOTE",
+      "ticker": "B50",
+      "decimals": 0
+    },
+    {
+      "policyId": "447d5ea77a8fb56f9abb643160538327a99ecbd9be50e3b26987aaff",
+      "subject": "447d5ea77a8fb56f9abb643160538327a99ecbd9be50e3b26987aaff42414e414e41",
+      "description": "Bored Ape Cardano Club NFT Staking Official Reward Token",
+      "name": "BANANA",
+      "ticker": "BANANA",
+      "decimals": 6
+    },
+    {
+      "policyId": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f218",
+      "subject": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f21842414e4b",
+      "description": "Bankercoin",
+      "name": "Bankercoin",
+      "ticker": "BANK",
+      "decimals": 0
+    },
+    {
+      "policyId": "b525a554ea69e4465221cbc60583a7d334dc0a9e3083684b58a95eec",
+      "subject": "b525a554ea69e4465221cbc60583a7d334dc0a9e3083684b58a95eec42415243",
+      "description": "BARCOIN is a utility token with a purpose.",
+      "name": "BARCOIN",
+      "ticker": "BARC",
+      "decimals": 0
+    },
+    {
+      "policyId": "3c591f48796ccb4d824839043bc1d38033b79b035352897beddf37cd",
+      "subject": "3c591f48796ccb4d824839043bc1d38033b79b035352897beddf37cd42415254",
+      "description": "Official token of Bart",
+      "name": "BART Coin",
+      "ticker": "BART",
+      "decimals": 0
+    },
+    {
+      "policyId": "c6cc953af29c76fa4e674af6de620d2334a13143334c05e83c497e00",
+      "subject": "c6cc953af29c76fa4e674af6de620d2334a13143334c05e83c497e0042415254",
+      "description": "Byron Network is a Cardano-based ecosystem of DApps. BART token is for testing purposes.",
+      "name": "Byron Network BART Test Token",
+      "ticker": "BART",
+      "decimals": 8
+    },
+    {
+      "policyId": "201eaf3ec3114036cd47c4f4696a8a3f344d33b2e7d510627fca44e7",
+      "subject": "201eaf3ec3114036cd47c4f4696a8a3f344d33b2e7d510627fca44e7424c554e5442524f53434f46464545",
+      "description": "The official crypto currency of Blunt Bros Coffee!",
+      "name": "BBCFL",
+      "ticker": "BBCFL",
+      "decimals": 8
+    },
+    {
+      "policyId": "1b25b64df2246c6ddf6230ad7100ac66ea0506791b7c6fb7c3eff9f6",
+      "subject": "1b25b64df2246c6ddf6230ad7100ac66ea0506791b7c6fb7c3eff9f642425443",
+      "description": "Blue Bitcoin",
+      "name": "Blue Bitcoin",
+      "ticker": "BBTC",
+      "decimals": 0
+    },
+    {
+      "policyId": "d3558649b7874a1a596378515f9b80da63e73f324439ea113d34c9bb",
+      "subject": "d3558649b7874a1a596378515f9b80da63e73f324439ea113d34c9bb42454147",
+      "description": "Cardano's native dog token.",
+      "name": "Beagle Bucks",
+      "ticker": "BEAG",
+      "decimals": 0
+    },
+    {
+      "policyId": "59238a9bb1151f63c9a586fa607cae182aed8e8336f0739ea94bb92d",
+      "subject": "59238a9bb1151f63c9a586fa607cae182aed8e8336f0739ea94bb92d4245414e",
+      "description": "This is the official token of BEAN",
+      "name": "BEAN Coin",
+      "ticker": "BEAN",
+      "decimals": 0
+    },
+    {
+      "policyId": "abd6124a45cd9085279660814aa1ecfca96cfc1ce0cb98bc6ea1fcb2",
+      "subject": "abd6124a45cd9085279660814aa1ecfca96cfc1ce0cb98bc6ea1fcb2424552",
+      "description": "helo min nam ber",
+      "name": "Polr Ber",
+      "ticker": "BER",
+      "decimals": 0
+    },
+    {
+      "policyId": "0e3bafea33081c3ac3773cd269bd26b141851d1323d1070c388f6cc0",
+      "subject": "0e3bafea33081c3ac3773cd269bd26b141851d1323d1070c388f6cc04249544D454F57",
+      "description": "All cats are mortal. Hoskinson is mortal. Therefore Hoskinson is a cat.",
+      "name": "Bitmeow",
+      "ticker": "BITMEOW",
+      "decimals": 5
+    },
+    {
+      "policyId": "8bbe29d43fa1da348ccad87f4dc42105be23d54c26bc99d230df8620",
+      "subject": "8bbe29d43fa1da348ccad87f4dc42105be23d54c26bc99d230df8620626b76",
+      "description": "BKV coin is the token minted on the Cardano blockchain just a few days after the Mary hardfork. This token is one of the oldest on the Cardano network. The token contains the spirit of the bull prepared for the bull run! :) Visit our website and Discord channel to get more info. May the Bull be with",
+      "name": "BKV coin",
+      "ticker": "BKV",
+      "decimals": 4
+    },
+    {
+      "policyId": "811276a3510d7e732f7236c89c5e3395eae23d09a0c0d519d0b767a1",
+      "subject": "811276a3510d7e732f7236c89c5e3395eae23d09a0c0d519d0b767a1426c61636b486f6c65",
+      "description": "The Cardano Community Black Hole Token",
+      "name": "Black Hole",
+      "ticker": "BlackHole",
+      "decimals": 3
+    },
+    {
+      "policyId": "125a674c5a97b8ae842a0842e7d0f42e7d558b278b3cc65eaa95c407",
+      "subject": "125a674c5a97b8ae842a0842e7d0f42e7d558b278b3cc65eaa95c407424c43",
+      "description": "The truly Global Australian born token by Blockcoin Pty Ltd",
+      "name": "Blockcoin",
+      "ticker": "BLC",
+      "decimals": 0
+    },
+    {
+      "policyId": "532a883e663cf04c601857fb23f64a5fd4965934508b76e340715aa1",
+      "subject": "532a883e663cf04c601857fb23f64a5fd4965934508b76e340715aa1424c4f4b",
+      "description": "The official token for SoBloks, the worlds first social media platform built on the Cardano Blockchain.",
+      "name": "SoBloks BLOK",
+      "ticker": "BLOK",
+      "decimals": 6
+    },
+    {
+      "policyId": "dd36edc829921044b1eda0932538b11c4c31d02e68955a6b6e3e2762",
+      "subject": "dd36edc829921044b1eda0932538b11c4c31d02e68955a6b6e3e2762424c554534",
+      "description": "Blue4 is a linux-based Multimedia System",
+      "name": "Blue4 Multimedia Blockchain",
+      "ticker": "BLUE4",
+      "decimals": 0
+    },
+    {
+      "policyId": "e043fd7b2076ea9e1b279d200b59e153bf6b299a72ce6e2c14aeb790",
+      "subject": "e043fd7b2076ea9e1b279d200b59e153bf6b299a72ce6e2c14aeb790424c554553",
+      "description": "Blueshift is a decentralized exchange and a new-generation crypto asset management protocol based on liquidity portfolios.",
+      "name": "BLUES",
+      "ticker": "BLUES",
+      "decimals": 6
+    },
+    {
+      "policyId": "f0526156adbca81ace64a2e58e5fb64ab59de6014cef5d21bd7ed0cb",
+      "subject": "f0526156adbca81ace64a2e58e5fb64ab59de6014cef5d21bd7ed0cb424c554e54434f494e",
+      "description": "The official crypto currency of Blunt Bros Coffee!",
+      "name": "BLUNT",
+      "ticker": "BLUNT",
+      "decimals": 8
+    },
+    {
+      "policyId": "055bff0c5afc7f91f12a76fbfaa1126de7f9cea5652e7dca8bb3b0f6",
+      "subject": "055bff0c5afc7f91f12a76fbfaa1126de7f9cea5652e7dca8bb3b0f642505453",
+      "description": "The official utility token for Boss Cat Rocket Club. Discovering new use cases for everything BCRC.",
+      "name": "Boss Points",
+      "ticker": "BPTS",
+      "decimals": 0
+    },
+    {
+      "policyId": "966278d15a2c8b20ce96048ec928b452ed7cae9f673367437343739f",
+      "subject": "966278d15a2c8b20ce96048ec928b452ed7cae9f673367437343739f426c61636b5368696261496e75",
+      "description": "Black Shiba Inu ($BSHIB) is an experimental governance token native to the Cardano blockchain with a maximum supply of 1T tokens.",
+      "name": "Black Shiba Inu",
+      "ticker": "BSHIB",
+      "decimals": 0
+    },
+    {
+      "policyId": "1dea54019caccd66421b2aee93afdc54a350c6c2c358b05042ed86cc",
+      "subject": "1dea54019caccd66421b2aee93afdc54a350c6c2c358b05042ed86cc4255494c44",
+      "description": "BUILD Token",
+      "name": "BUILD",
+      "ticker": "BUILD",
+      "decimals": 6
+    },
+    {
+      "policyId": "4c5d6baa4e94b86ccfba57848f3ed157350e27ec4b2a2e165a7cdc14",
+      "subject": "4c5d6baa4e94b86ccfba57848f3ed157350e27ec4b2a2e165a7cdc1442554b5a",
+      "description": "The native token used within the Cardenia City metaverse ecosystem",
+      "name": "BUKZ",
+      "ticker": "BUKZ",
+      "decimals": 0
+    },
+    {
+      "policyId": "833497d9e4f82779bdc2e57b03180765bf1309c9efc5976f384ee3f3",
+      "subject": "833497d9e4f82779bdc2e57b03180765bf1309c9efc5976f384ee3f342554c4c",
+      "description": "Most bullish coin out there!",
+      "name": "Billy The Bull",
+      "ticker": "BULL",
+      "decimals": 0
+    },
+    {
+      "policyId": "9476d7362095d75c04bf4f8efe7435db711962a68301d4ce65bd7ec5",
+      "subject": "9476d7362095d75c04bf4f8efe7435db711962a68301d4ce65bd7ec5666d42555344",
+      "description": "BUSD token, wrapped into a Cardano native token by Finitum Bridge.",
+      "name": "BUSD via finitum.io",
+      "ticker": "BUSD",
+      "decimals": 6
+    },
+    {
+      "policyId": "1e317eb10331573ebbd01cb8cc57ba8a4e9b4b751adb08f4b499756a",
+      "subject": "1e317eb10331573ebbd01cb8cc57ba8a4e9b4b751adb08f4b499756a57494e5f544f4b454e",
+      "description": "Win Token for the Bashocaps ecosystem",
+      "name": "Basho Win Token",
+      "ticker": "BWIN",
+      "decimals": 0
+    },
+    {
+      "policyId": "ebbefe8591da7e6f0b06f6eb651ab0d4755a83d21a5293a24914605d",
+      "subject": "ebbefe8591da7e6f0b06f6eb651ab0d4755a83d21a5293a24914605d42594e4554",
+      "description": "Byron Network is a Cardano-based ecosystem of DApps. BYNET tokens give access to advanced DApps’ options and rewards while enabling governance.",
+      "name": "Byron Network Token",
+      "ticker": "BYNET",
+      "decimals": 6
+    },
+    {
+      "policyId": "564495f17c1abd16e55b115c17f5fb6348728836c5830c3c5e9b071f",
+      "subject": "564495f17c1abd16e55b115c17f5fb6348728836c5830c3c5e9b071f434841524c4933",
+      "description": "The Charli3 Oracle token.",
+      "name": "CHARLI3",
+      "ticker": "C3",
+      "decimals": 6
+    },
+    {
+      "policyId": "cec8e2df35787884fa82abd69b007cd41fdfea36232f64228c92713e",
+      "subject": "cec8e2df35787884fa82abd69b007cd41fdfea36232f64228c92713e433453",
+      "description": "A true utility token throughout the CARdano4SPEED platform. Whether you want to fuel your car with NoS or go to the custom garage shop for makeover or just need access into paid races, you ll need C4S tokens.",
+      "name": "CARdano4SPEED Token",
+      "ticker": "C4S",
+      "decimals": 0
+    },
+    {
+      "policyId": "52bdfb05fa225bd501c16d4ed43af7c526480c0a4eac7963ea8b62b9",
+      "subject": "52bdfb05fa225bd501c16d4ed43af7c526480c0a4eac7963ea8b62b9434150414c4c41",
+      "description": "The Ultimate Palladium-Backed Cryptocurrency!",
+      "name": "Capalladium",
+      "ticker": "CAPALLA",
+      "decimals": 0
+    },
+    {
+      "policyId": "1219c1799db5ff8f1f5efd9483381f030c708e63abca62f8f1b44f03",
+      "subject": "1219c1799db5ff8f1f5efd9483381f030c708e63abca62f8f1b44f03434150474f4c44",
+      "description": "The Ultimate Gold-Backed Cryptocurrency!",
+      "name": "CapGold",
+      "ticker": "CAPGOLD",
+      "decimals": 0
+    },
+    {
+      "policyId": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921",
+      "subject": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921434154534b59",
+      "description": "The Cattiest MemeFi Token on Cardano leveraging AI combined with Blockchain to build useful and fun tools for the community",
+      "name": "Catsky Token",
+      "ticker": "CATSKY",
+      "decimals": 0
+    },
+    {
+      "policyId": "b999502e470b65038b761a8ce7ea206fde7b6652c1e37bdea04606a1",
+      "subject": "b999502e470b65038b761a8ce7ea206fde7b6652c1e37bdea04606a143415943",
+      "description": "Cyber Ape Yacht Club",
+      "name": "Cyber Ape Yacht Club",
+      "ticker": "CAYC",
+      "decimals": 0
+    },
+    {
+      "policyId": "ac46a8ad5308459a023e60513d58c433c22fbf4dcf7f7857c50ddae4",
+      "subject": "ac46a8ad5308459a023e60513d58c433c22fbf4dcf7f7857c50ddae44342444752",
+      "description": "CBDGreece Charity Coin! (Cardano native token)",
+      "name": "CBDGreece Coin",
+      "ticker": "CBDGR",
+      "decimals": 0
+    },
+    {
+      "policyId": "74be1f6940dadc4ab85c643d7447b45cf4e1b5e9cfd5fed062e903f8",
+      "subject": "74be1f6940dadc4ab85c643d7447b45cf4e1b5e9cfd5fed062e903f863617264616e6f2e626c7565",
+      "description": "cardano.blue utility token",
+      "name": "cardano.blue",
+      "ticker": "CBLUE",
+      "decimals": 6
+    },
+    {
+      "policyId": "905da53004cfee0b8549285949aebedf82b5c6bb9a412cbd9658c6de",
+      "subject": "905da53004cfee0b8549285949aebedf82b5c6bb9a412cbd9658c6de434343",
+      "description": "Used for participating in the Crypto College ecosystem.",
+      "name": "Crypto College Coin",
+      "ticker": "CCC",
+      "decimals": 0
+    },
+    {
+      "policyId": "ab3e31c490d248c592d5bb495823a45fd10f9c8e4f561f13551803fb",
+      "subject": "ab3e31c490d248c592d5bb495823a45fd10f9c8e4f561f13551803fb43617264616e6f20436f6d6d756e697479204368617269747920436f696e",
+      "description": "Making a difference, one trade at a time.",
+      "name": "Cardano Community Charity Coin",
+      "ticker": "CCCC",
+      "decimals": 0
+    },
+    {
+      "policyId": "ba94ebd43273e746212efa82ee89abd24356454482853b799d5834cf",
+      "subject": "ba94ebd43273e746212efa82ee89abd24356454482853b799d5834cf43434343",
+      "description": "Cardano Community Charity Coin",
+      "name": "Cardano Community Charity Coin",
+      "ticker": "CCCC",
+      "decimals": 0
+    },
+    {
+      "policyId": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f7",
+      "subject": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f743617264616e6f53696c766572",
+      "description": "Doctrinal Silver",
+      "name": "Cardano Silver",
+      "ticker": "CD",
+      "decimals": 6
+    },
+    {
+      "policyId": "ccb3577601d6cf0e021288871112926338bee685c6c37eeadf6dddd9",
+      "subject": "ccb3577601d6cf0e021288871112926338bee685c6c37eeadf6dddd943617264616e6961466f756e646572477265656e",
+      "description": "Cardania Founder's Card - Green",
+      "name": "CardaniaFounderGreen",
+      "ticker": "CDFC6",
+      "decimals": 0
+    },
+    {
+      "policyId": "d9b778a32dfa1366ea17e8ff88eeb39e4ce49d0e917586f73871d633",
+      "subject": "d9b778a32dfa1366ea17e8ff88eeb39e4ce49d0e917586f73871d63343617264616e6f444f4745",
+      "description": "Cardano version of DOGE",
+      "name": "CardanoDOGE",
+      "ticker": "CDOGE",
+      "decimals": 4
+    },
+    {
+      "policyId": "50c950139f7d25dc92ba7959e81e9be08308df2e208e924dc1c892f1",
+      "subject": "50c950139f7d25dc92ba7959e81e9be08308df2e208e924dc1c892f143656e6e61",
+      "description": "Avicenna's project in the field of human education focuses on what human beings need throughout their lives. We perform it in established centers and present it in Metavars for the use of others. We attracting talented people with prioritie disadvantaged. Cenna is the main currency of Avicenna proje",
+      "name": "Avicenna",
+      "ticker": "Cenna",
+      "decimals": 0
+    },
+    {
+      "policyId": "02a4e5d69c39dc69ca5673836545743f425563965af06fe002bdd790",
+      "subject": "02a4e5d69c39dc69ca5673836545743f425563965af06fe002bdd79043455446",
+      "description": "Governance token for cETF",
+      "name": "cETF",
+      "ticker": "CETF",
+      "decimals": 4
+    },
+    {
+      "policyId": "1a3547fe21f35ee2c7c5eff24619857cb0f22effb507374458602443",
+      "subject": "1a3547fe21f35ee2c7c5eff24619857cb0f22effb50737445860244343455448",
+      "description": "ETH on cardano",
+      "name": "CETH",
+      "ticker": "CETH",
+      "decimals": 8
+    },
+    {
+      "policyId": "c0267e374e0368fdc831d180d7b3a36fd07cbd94fdd837e347098875",
+      "subject": "c0267e374e0368fdc831d180d7b3a36fd07cbd94fdd837e34709887563455552",
+      "description": "cEUR is a first fully-fiat backed Euro stablecoin on Cardano",
+      "name": "cEUR",
+      "ticker": "cEUR",
+      "decimals": 1
+    },
+    {
+      "policyId": "2ae22b27cb82a1c315bff3fe111a49d81ae6ffce881552700f36fe26",
+      "subject": "2ae22b27cb82a1c315bff3fe111a49d81ae6ffce881552700f36fe2643464354",
+      "description": "CFCT is dedicated to using the power of the Cardano blockchain to finally destroy cancer in its tracks",
+      "name": "Cure cancer coin",
+      "ticker": "CFCT",
+      "decimals": 0
+    },
+    {
+      "policyId": "f10b16b705ef9baac04ca79c0da011633c8c20356b6a42262a1691da",
+      "subject": "f10b16b705ef9baac04ca79c0da011633c8c20356b6a42262a1691da4368656666546f6b656e",
+      "description": "Cheff token distributed to pool supporters delegations, backed with real assets in BSC and Harmony.",
+      "name": "CHEFFToken",
+      "ticker": "CHEFF",
+      "decimals": 18
+    },
+    {
+      "policyId": "c1baa4dae195e39149d1501b525e9c7db59e5fa7163a1ef250c27009",
+      "subject": "c1baa4dae195e39149d1501b525e9c7db59e5fa7163a1ef250c2700943686f73656e20436f696e",
+      "description": "The Chosen Coin is an asset local to the Chosen Homes Network.",
+      "name": "Chosen Coin",
+      "ticker": "CHOSEN",
+      "decimals": 4
+    },
+    {
+      "policyId": "73ad78ec68fb016c9c3b79feec896da0e4cdb2eccf7f1de3a377d3ce",
+      "subject": "73ad78ec68fb016c9c3b79feec896da0e4cdb2eccf7f1de3a377d3ce43485259",
+      "description": "CherryLend is an open-source and non-custodial lending protocol on Cardano.",
+      "name": "CherryLend",
+      "ticker": "CHRY",
+      "decimals": 6
+    },
+    {
+      "policyId": "75fcc276057db5fc48eae0e11453c773c8a54604c3086bf9d95ac1b7",
+      "subject": "75fcc276057db5fc48eae0e11453c773c8a54604c3086bf9d95ac1b743485259",
+      "description": "CherryLend is an open-source and non-custodial lending protocol on Cardano.",
+      "name": "CherryLend",
+      "ticker": "CHRY",
+      "decimals": 6
+    },
+    {
+      "policyId": "fee42cbf08b36928503f4711bb7f3b7439a4fa9ad1afc729a8a09dcf",
+      "subject": "fee42cbf08b36928503f4711bb7f3b7439a4fa9ad1afc729a8a09dcf434b45584e46543031",
+      "description": "Cardno Kombat brings you the hottest NFTs, EXNFT brings you the best NFT marketplace! Only 4 mints of this limited edition promotional coin!",
+      "name": "CKEXNFT01",
+      "ticker": "CKEXN",
+      "decimals": 0
+    },
+    {
+      "policyId": "62c25da0792c3c887fe5e723abcc48db9d49ff0fa3ee5664844f4632",
+      "subject": "62c25da0792c3c887fe5e723abcc48db9d49ff0fa3ee5664844f4632434c414e",
+      "description": "Connecting businesses & customers through rewards & engagement",
+      "name": "Clanity",
+      "ticker": "CLAN",
+      "decimals": 0
+    },
+    {
+      "policyId": "721f96b81933b34957d05bb050de2f1119e8379cb6223a36073e1a84",
+      "subject": "721f96b81933b34957d05bb050de2f1119e8379cb6223a36073e1a84434c414e4e50554e54",
+      "description": "$CLANNPUNT to be used in community & metaverse",
+      "name": "CLANNPUNT",
+      "ticker": "CLANNPUNT",
+      "decimals": 0
+    },
+    {
+      "policyId": "db30c7905f598ed0154de14f970de0f61f0cb3943ed82c891968480a",
+      "subject": "db30c7905f598ed0154de14f970de0f61f0cb3943ed82c891968480a434c4150",
+      "description": "Utility token of the Cardashift ecosystem",
+      "name": "CLAP",
+      "ticker": "CLAP",
+      "decimals": 3
+    },
+    {
+      "policyId": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535",
+      "subject": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
+      "description": "Governance and Utility Token of Clay Nation",
+      "name": "CLAY",
+      "ticker": "CLAY",
+      "decimals": 4
+    },
+    {
+      "policyId": "478ac73ae45d58572ea2d8bf6fff413596e017d6278feca72305b948",
+      "subject": "478ac73ae45d58572ea2d8bf6fff413596e017d6278feca72305b948434c5652",
+      "description": "The Utility Token for the CatnClever Application on the Cardano Blockchain",
+      "name": "Clever Token",
+      "ticker": "CLVR",
+      "decimals": 0
+    },
+    {
+      "policyId": "af3d70acf4bd5b3abb319a7d75c89fb3e56eafcdd46b2e9b57a2557f",
+      "subject": "af3d70acf4bd5b3abb319a7d75c89fb3e56eafcdd46b2e9b57a2557f77926409d333a024f5833d14de0a66fbda269b953af7f0b876289bdaef59551f",
+      "description": "A token that represents a share of the cNETA/ADA pairing liquidity pool on the MuesliSwap Hybrid DEX.",
+      "name": "MuesliSwap cNETA/ADA LP token",
+      "ticker": "cNETA/ADA",
+      "decimals": 0
+    },
+    {
+      "policyId": "1bf6678f2bfe0b1e62b525b25337f261c9474898ec1be056c0ff79ea",
+      "subject": "1bf6678f2bfe0b1e62b525b25337f261c9474898ec1be056c0ff79ea434e59",
+      "description": "CNY on cardano",
+      "name": "CNY",
+      "ticker": "CNY",
+      "decimals": 8
+    },
+    {
+      "policyId": "d6826dd8c74b55a608fa93b0e3ba29c3558ee66906582be610a10d49",
+      "subject": "d6826dd8c74b55a608fa93b0e3ba29c3558ee66906582be610a10d49434f444f58",
+      "description": "CoinsDojo ecosystem utility token.",
+      "name": "CODOX",
+      "ticker": "CODOX",
+      "decimals": 0
+    },
+    {
+      "policyId": "1ea032b5c6349e9e4238a051887644fc56649b93a77e6b2d8f9ffd2e",
+      "subject": "1ea032b5c6349e9e4238a051887644fc56649b93a77e6b2d8f9ffd2e434f524e",
+      "description": "Bringing the juice to Cardano.",
+      "name": "CORN",
+      "ticker": "CORN",
+      "decimals": 0
+    },
+    {
+      "policyId": "f42a10e1570d2812e496d382e0412bc2dc6917f19b2260ebb6a96fe2",
+      "subject": "f42a10e1570d2812e496d382e0412bc2dc6917f19b2260ebb6a96fe2434f524e",
+      "description": "Bringing the juice to Cardano.",
+      "name": "CORN COIN",
+      "ticker": "CORN",
+      "decimals": 0
+    },
+    {
+      "policyId": "db825a73091c1bf24cc0f01741f617e8a984a53e84deb77b4728e19c",
+      "subject": "db825a73091c1bf24cc0f01741f617e8a984a53e84deb77b4728e19c435244494458",
+      "description": "The best Cardano projects grouped into one portfolio, launched by Blueshift",
+      "name": "Cardano Index",
+      "ticker": "CRDIDX",
+      "decimals": 6
+    },
+    {
+      "policyId": "eef4f770d16d2d4c09f0eae47eec8a6c13244d772f45ee41fc822c94",
+      "subject": "eef4f770d16d2d4c09f0eae47eec8a6c13244d772f45ee41fc822c944352444f",
+      "description": "Crazy Donkeys Central Bank Token on Cardano",
+      "name": "Crazy Donkeys Token",
+      "ticker": "CRDO",
+      "decimals": 0
+    },
+    {
+      "policyId": "3d17c4cdf19e5c050d2540a7ed562e8ad1ba8c6c1cd03484ad4ae304",
+      "subject": "3d17c4cdf19e5c050d2540a7ed562e8ad1ba8c6c1cd03484ad4ae30443524d",
+      "description": "Cardano Rules Everything Around Me",
+      "name": "CREAM",
+      "ticker": "CREAM",
+      "decimals": 0
+    },
+    {
+      "policyId": "388053c5c706d0fc73820659b759a900b3f4ed9ddc51a784eac28eb1",
+      "subject": "388053c5c706d0fc73820659b759a900b3f4ed9ddc51a784eac28eb163726f6f6765",
+      "description": "$crooge McCardano the only meme token fighting the capitalism!",
+      "name": "$crooge McCardano",
+      "ticker": "crooge",
+      "decimals": 0
+    },
+    {
+      "policyId": "ecda51cf797535f5661a8ade59170d6f3ee7623be5789b58fac583f0",
+      "subject": "ecda51cf797535f5661a8ade59170d6f3ee7623be5789b58fac583f00014df1043727970746f20556e69636f726e",
+      "description": "Crypto Unicorn",
+      "name": "Crypto Unicorn",
+      "ticker": "CRU",
+      "decimals": 6
+    },
+    {
+      "policyId": "8e229701986f4c0836f040a207eb6ef0f33713a2966a879315ab4142",
+      "subject": "8e229701986f4c0836f040a207eb6ef0f33713a2966a879315ab41424372756d62",
+      "description": "Chips is a mobile game that attempts to curb crime, violence, and poverty by incentivizing positive decisions. Crumb is an in-game monetary asset used for buying and selling (This token can only be minted via gameplay and will be used to pay users for completing tasks in game) in Chips.",
+      "name": "Crumb",
+      "ticker": "Crumb",
+      "decimals": 0
+    },
+    {
+      "policyId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9",
+      "subject": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9637279696e67",
+      "description": "The sender of this token is Crying",
+      "name": "Crying",
+      "ticker": "Cry",
+      "decimals": 0
+    },
+    {
+      "policyId": "9f452e23804df3040b352b478039357b506ad3b50d2ce0d7cbd5f806",
+      "subject": "9f452e23804df3040b352b478039357b506ad3b50d2ce0d7cbd5f806435456",
+      "description": "Governance Token for Cardano Token Vault",
+      "name": "CTV Governance Token",
+      "ticker": "CTV",
+      "decimals": 0
+    },
+    {
+      "policyId": "e8e6b35d977a56ae5a221786eb0b2b348b8555e6e6afc6a54c25d2c5",
+      "subject": "e8e6b35d977a56ae5a221786eb0b2b348b8555e6e6afc6a54c25d2c54379636c72",
+      "description": "Reward token for W3:Ride Cycling App",
+      "name": "Cyclr",
+      "ticker": "Cyclr",
+      "decimals": 6
+    },
+    {
+      "policyId": "986f0548a2fd9758bc2a38d698041debe89568749e20ab9b75a7f4b7",
+      "subject": "986f0548a2fd9758bc2a38d698041debe89568749e20ab9b75a7f4b7444149",
+      "description": "DAI is 1:1 pegged by canonical DAI in Multichain protocol, which is the ultimate Router for web3,",
+      "name": "DAI bridged by Multichain",
+      "ticker": "DAI",
+      "decimals": 6
+    },
+    {
+      "policyId": "d55697dd01006c8d703282b30d0788148776b594819a42d3f77ef889",
+      "subject": "d55697dd01006c8d703282b30d0788148776b594819a42d3f77ef88944414c49",
+      "description": "the token for your bunniest favorite spreadshirt shop",
+      "name": "The Dalibunny",
+      "ticker": "DALI",
+      "decimals": 0
+    },
+    {
+      "policyId": "c88bbd1848db5ea665b1fffbefba86e8dcd723b5085348e8a8d2260f",
+      "subject": "c88bbd1848db5ea665b1fffbefba86e8dcd723b5085348e8a8d2260f44414e41",
+      "description": "Ardana is the decentralized stablecoin ecosystem for Cardano",
+      "name": "DANA",
+      "ticker": "DANA",
+      "decimals": 6
+    },
+    {
+      "policyId": "0fdaa1b8699080ed281faec8dfae54531d07f37fe9a4bdd8f0733e2e",
+      "subject": "0fdaa1b8699080ed281faec8dfae54531d07f37fe9a4bdd8f0733e2e44414e4345",
+      "description": "The most awaited SWAP of the Cardano community.",
+      "name": "CARDANCE Swap",
+      "ticker": "DANCE",
+      "decimals": 0
+    },
+    {
+      "policyId": "83d1f1adeb1d38192c55b1d84d95048573a8777a5683d35c1acac6f1",
+      "subject": "83d1f1adeb1d38192c55b1d84d95048573a8777a5683d35c1acac6f164626167",
+      "description": "What will you do with your mfer?",
+      "name": "dbag",
+      "ticker": "DBAG",
+      "decimals": 2
+    },
+    {
+      "policyId": "7b4e2c5b26957369201cb6937439c613c9621a7b61d8f43dea5f35be",
+      "subject": "7b4e2c5b26957369201cb6937439c613c9621a7b61d8f43dea5f35be446563696d616c546f6b656e",
+      "description": "To check decimals of cardano native token",
+      "name": "DecimalToken",
+      "ticker": "DCM",
+      "decimals": 4
+    },
+    {
+      "policyId": "e88e1e4d7e5c807a4c325d7d7d6bba98eaa4d53c2b8c0ff5ae518732",
+      "subject": "e88e1e4d7e5c807a4c325d7d7d6bba98eaa4d53c2b8c0ff5ae5187326444",
+      "description": "dollarDyne, the official token from dataDyne.",
+      "name": "dollarDyne",
+      "ticker": "dD",
+      "decimals": 6
+    },
+    {
+      "policyId": "fb0e9a083ac66c814548002cbdfc54557e064e4cdf5c6675e72d22b4",
+      "subject": "fb0e9a083ac66c814548002cbdfc54557e064e4cdf5c6675e72d22b44445414e",
+      "description": "Made by the Deans for the Deans",
+      "name": "DEAN",
+      "ticker": "DEAN",
+      "decimals": 0
+    },
+    {
+      "policyId": "ac86e52d7c59925d38a5ae8ad657eea6578d1e4a8b229dd07c71a347",
+      "subject": "ac86e52d7c59925d38a5ae8ad657eea6578d1e4a8b229dd07c71a3476465786d61726b6574636170",
+      "description": "A currency for the Dexmarketcap.",
+      "name": "Dexmarketcap App",
+      "ticker": "DEXMCA",
+      "decimals": 1
+    },
+    {
+      "policyId": "383cc2bb05799184cd9b31a0567f12dca42740bee8e1f7971da2b060",
+      "subject": "383cc2bb05799184cd9b31a0567f12dca42740bee8e1f7971da2b0604461726b476f6c64",
+      "description": "Dark Side",
+      "name": "Dark Gold",
+      "ticker": "DG",
+      "decimals": 0
+    },
+    {
+      "policyId": "f5f8e854af532d828d00381df799ba6db22d825c9b140e1d5795cf85",
+      "subject": "f5f8e854af532d828d00381df799ba6db22d825c9b140e1d5795cf850014df10447261676f6e476f6c64",
+      "description": "Governance token of the Drunken Dragon Universe decentralized fantasy franchise. Rewarded to creators and used for franchise decision-making.",
+      "name": "Dragon Gold",
+      "ticker": "DG",
+      "decimals": 6
+    },
+    {
+      "policyId": "c68307e7ca850513507f1498862a57c7f4fae7ba8e84b8bc074093a9",
+      "subject": "c68307e7ca850513507f1498862a57c7f4fae7ba8e84b8bc074093a944494253",
+      "description": "DIBS is a fast-paced logic game in which you have fun while attempting to steal DIBS Tokens from your pals.",
+      "name": "DIBS",
+      "ticker": "DIBS",
+      "decimals": 0
+    },
+    {
+      "policyId": "2a549c63caf65cd72ef8e1db15f61b7160bbfbe73395d09f3ba5ce38",
+      "subject": "2a549c63caf65cd72ef8e1db15f61b7160bbfbe73395d09f3ba5ce38446946414d",
+      "description": "Di-Farm Innovations Virtual shareholders token.",
+      "name": "DiFarm Innovation",
+      "ticker": "DiFAM",
+      "decimals": 0
+    },
+    {
+      "policyId": "cc5d164d1b859a821b1d56d3928e5b5f882c95b3d024b33a1f462e22",
+      "subject": "cc5d164d1b859a821b1d56d3928e5b5f882c95b3d024b33a1f462e2244494e4f",
+      "description": "A currency for cryptodino ecosystem.",
+      "name": "DINO token",
+      "ticker": "DINO",
+      "decimals": 6
+    },
+    {
+      "policyId": "7f863dbd7faa4c27dd9cadd1f512e7acee6634a6fd79a02eb832175e",
+      "subject": "7f863dbd7faa4c27dd9cadd1f512e7acee6634a6fd79a02eb832175e44696e6f436f696e",
+      "description": "DinoCoin for CryptoDino project (breeding and p2e).",
+      "name": "DinoCoin",
+      "ticker": "DinoCoin",
+      "decimals": 0
+    },
+    {
+      "policyId": "5409708a3eff94524d978ca12f97c318bd011308f71eee232575eb9e",
+      "subject": "5409708a3eff94524d978ca12f97c318bd011308f71eee232575eb9e",
+      "description": "Utility token for Liqwid DJED market",
+      "name": "Liqwid DJED Borrow",
+      "ticker": "DJEDBOR",
+      "decimals": 0
+    },
+    {
+      "policyId": "1ee678e1031bd8cdea9357b2bb953bd086ffc868d9e3ffb74e3c3e7b",
+      "subject": "1ee678e1031bd8cdea9357b2bb953bd086ffc868d9e3ffb74e3c3e7b",
+      "description": "Utility token for Liqwid DJED market",
+      "name": "Liqwid DJED Liquidation",
+      "ticker": "DJEDLIQ",
+      "decimals": 0
+    },
+    {
+      "policyId": "43c4bdac04537dbd338935d00a8a0746a078d4f03d7ac302a4bf5d3d",
+      "subject": "43c4bdac04537dbd338935d00a8a0746a078d4f03d7ac302a4bf5d3d",
+      "description": "Utility token for Liqwid DJED market",
+      "name": "Liqwid DJED MarketState",
+      "ticker": "DJEDST",
+      "decimals": 0
+    },
+    {
+      "policyId": "14f51903382cba26ef26bb7be543144db6f58e336e43e1a9e89c406e",
+      "subject": "14f51903382cba26ef26bb7be543144db6f58e336e43e1a9e89c406e444f444f",
+      "description": "This is the official token of DODO",
+      "name": "DODO Coin",
+      "ticker": "DODO",
+      "decimals": 0
+    },
+    {
+      "policyId": "4bdef40531b2c870c47a2822aa696331f450e87da962ee3561109f5e",
+      "subject": "4bdef40531b2c870c47a2822aa696331f450e87da962ee3561109f5e444f474759",
+      "description": "A Cardano native token that loves all dogs",
+      "name": "Doggy",
+      "ticker": "DOGGY",
+      "decimals": 0
+    },
+    {
+      "policyId": "af2e27f580f7f08e93190a81f72462f153026d06450924726645891b",
+      "subject": "af2e27f580f7f08e93190a81f72462f153026d06450924726645891b44524950",
+      "description": "DripDropz Token",
+      "name": "DRIP",
+      "ticker": "DRIP",
+      "decimals": 6
+    },
+    {
+      "policyId": "ddeec4b6d0c03b6ba4c6135e8e81031748554a5626c23363878f53dd",
+      "subject": "ddeec4b6d0c03b6ba4c6135e8e81031748554a5626c23363878f53dd44554d50",
+      "description": "$DUMP is a fast & feeless Cardano Native Token, created specifically for the DUMPYverse. Every trx is paid for in DUMPYbux (sort of), which can be earned by collecting TURDlesTurtlePile of poo from your flaming dumper Super NES mining machine.",
+      "name": "$DUMP",
+      "ticker": "DUMP",
+      "decimals": 0
+    },
+    {
+      "policyId": "9d542ff00d7c8af217f5d669e51b8ee065f84f02dc4e628b6850dccf",
+      "subject": "9d542ff00d7c8af217f5d669e51b8ee065f84f02dc4e628b6850dccf4455505059",
+      "description": "Ghost Currency for the Ghost Chain",
+      "name": "Ghost ADA",
+      "ticker": "DUPPY",
+      "decimals": 0
+    },
+    {
+      "policyId": "d0ec062966515421bab9e40d5798cbf462becaf1a3bb127860373b3b",
+      "subject": "d0ec062966515421bab9e40d5798cbf462becaf1a3bb127860373b3b5374617244757374",
+      "description": "NFT Invaderz Utility Token",
+      "name": "StarDust",
+      "ticker": "DUST",
+      "decimals": 0
+    },
+    {
+      "policyId": "78cfc6ee236bf63e360d423158d1b6c11628d268c9c7f9264bf048fa",
+      "subject": "78cfc6ee236bf63e360d423158d1b6c11628d268c9c7f9264bf048fa44564c",
+      "description": "Official currency and smart contracts for Beelzebub",
+      "name": "Beelzecoin",
+      "ticker": "DVL",
+      "decimals": 0
+    },
+    {
+      "policyId": "984394dcc0b08ea12d72b8833292e3c3197d7a8ac89aad61d2f5aa9e",
+      "subject": "984394dcc0b08ea12d72b8833292e3c3197d7a8ac89aad61d2f5aa9e45415254485f746f6b656e",
+      "description": "$EARTH token for use within the Unbounded.Earth metaverse",
+      "name": "EARTH Token",
+      "ticker": "EARTH",
+      "decimals": 6
+    },
+    {
+      "policyId": "2d420236ffaada336c21e3f4520b799f6e246d8618f2fc89a4907da6",
+      "subject": "2d420236ffaada336c21e3f4520b799f6e246d8618f2fc89a4907da64564756c6164646572546f6b656e",
+      "description": "Proof Of Contribution.",
+      "name": "EduLadder Token",
+      "ticker": "ELADR",
+      "decimals": 6
+    },
+    {
+      "policyId": "05ccf5207e0ffd0fc3548bb88dc8170b2e4ad7201f9b5b7034f943db",
+      "subject": "05ccf5207e0ffd0fc3548bb88dc8170b2e4ad7201f9b5b7034f943db454c564953",
+      "description": "A Cardano native token created for the Love of Elvis",
+      "name": "Elvis",
+      "ticker": "ELVIS",
+      "decimals": 0
+    },
+    {
+      "policyId": "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96",
+      "subject": "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96454e4353",
+      "description": "The utility token of ENCOINS protocol. Also used for governance of ENCOINS DAO.",
+      "name": "ENCOINS utility token",
+      "ticker": "ENCS",
+      "decimals": 6
+    },
+    {
+      "policyId": "674d8134327a2485ff28cc0373d6f03b861e01ac1b435e9acd92c583",
+      "subject": "674d8134327a2485ff28cc0373d6f03b861e01ac1b435e9acd92c583454f5a",
+      "description": "World will funded with power of technology for new world",
+      "name": "Yunemoz",
+      "ticker": "EOZ",
+      "decimals": 0
+    },
+    {
+      "policyId": "a89568bb399d0cdc38367e47831c95186f5c79e58174e08a18232396",
+      "subject": "a89568bb399d0cdc38367e47831c95186f5c79e58174e08a182323964554424643546f6b656e",
+      "description": "O Token oficial do ETB FC",
+      "name": "ETBFCToken",
+      "ticker": "ETB",
+      "decimals": 6
+    },
+    {
+      "policyId": "86b116d8cfd880445825208b4a355b7715b63763d6d8f3d37338d211",
+      "subject": "86b116d8cfd880445825208b4a355b7715b63763d6d8f3d37338d211657465726e616c",
+      "description": "The token of the Overworld.",
+      "name": "Eternal",
+      "ticker": "ETERNAL",
+      "decimals": 0
+    },
+    {
+      "policyId": "88691a70bb0fe49cf9124b4f78553c36c09fa6264844e2b294119173",
+      "subject": "88691a70bb0fe49cf9124b4f78553c36c09fa6264844e2b2941191734575736b6f",
+      "description": "Euskal Token - Created by [EUSKL] EUSKAL STAKE POOL",
+      "name": "Eusko",
+      "ticker": "EUS",
+      "decimals": 0
+    },
+    {
+      "policyId": "67b11839e1f5649d402a5c32915bb38f7ba88a421d028871742e3e5b",
+      "subject": "67b11839e1f5649d402a5c32915bb38f7ba88a421d028871742e3e5b45766f63617264616e6f",
+      "description": "EvocSwap helps you to explore your crypto negotiations, with a simple and quickly experience in one place.",
+      "name": "Evocardano Token",
+      "ticker": "EVOC",
+      "decimals": 6
+    },
+    {
+      "policyId": "55c61686ea7276eb35026a6c3fa1844b3e7bca061014b1938b90df5c",
+      "subject": "55c61686ea7276eb35026a6c3fa1844b3e7bca061014b1938b90df5c4578706f",
+      "description": "A currency inspired and accepted for arts and entertainment, with the ultimate goal of giving creatives an avenue to collect Exposure as a form of payment.",
+      "name": "Exposure Coin",
+      "ticker": "EXPO",
+      "decimals": 0
+    },
+    {
+      "policyId": "f9a2d8ef86d5d90383a8da97d5798de9430d0d0f95c105b2249634f4",
+      "subject": "f9a2d8ef86d5d90383a8da97d5798de9430d0d0f95c105b2249634f446414c434f4e",
+      "description": "Falcon is driving Cardano adoption in Latin America. This is the official governance token of our Stake Pool.",
+      "name": "Falcon Stakepool",
+      "ticker": "FALCO",
+      "decimals": 0
+    },
+    {
+      "policyId": "398e01f47a6e6359ef38d3681d05bc4f130cc4b549137ae256f7bcd3",
+      "subject": "398e01f47a6e6359ef38d3681d05bc4f130cc4b549137ae256f7bcd3244252414e444f4e",
+      "description": "Let's Go Brandon!",
+      "name": "$BRANDON",
+      "ticker": "FED",
+      "decimals": 0
+    },
+    {
+      "policyId": "815418a1b078a259e678ecccc9d7eac7648d10b88f6f75ce2db8a25a",
+      "subject": "815418a1b078a259e678ecccc9d7eac7648d10b88f6f75ce2db8a25a4672616374696f6e2045737461746520546f6b656e",
+      "description": "FET is the utility token of the Fraction Estate marketplace platform.",
+      "name": "Fraction Estate Token",
+      "ticker": "FET",
+      "decimals": 10
+    },
+    {
+      "policyId": "5029eeccd52fef299509d509a8318fd7930c3dffcce1f9f39ff11ef9",
+      "subject": "5029eeccd52fef299509d509a8318fd7930c3dffcce1f9f39ff11ef9464743",
+      "description": "A funny bond between young gamers and Cardano Native Tokens",
+      "name": "FabianGamerCoin",
+      "ticker": "FGC",
+      "decimals": 0
+    },
+    {
+      "policyId": "8daefa391220bd0d8d007f3748d870f7f3c106040314c8515ccc35a5",
+      "subject": "8daefa391220bd0d8d007f3748d870f7f3c106040314c8515ccc35a5464c4143",
+      "description": "A RealFi banking platform on Cardano",
+      "name": "Flac Finance",
+      "ticker": "FLAC",
+      "decimals": 6
+    },
+    {
+      "policyId": "40bd871a85d2b5ff0efe75ef036e1f4ac17a4ad273c371b94501ae31",
+      "subject": "40bd871a85d2b5ff0efe75ef036e1f4ac17a4ad273c371b94501ae31464c414e4f",
+      "description": "FLANO utility token has trading and monetization features. Holders are able to Stake to generate additional yield. Liquidity providers will be paid in FLANO Tokens.",
+      "name": "FlanoToken",
+      "ticker": "FLANO",
+      "decimals": 0
+    },
+    {
+      "policyId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9",
+      "subject": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9666c69727479",
+      "description": "The sender of this token is Flirty",
+      "name": "Flirty",
+      "ticker": "Flirt",
+      "decimals": 0
+    },
+    {
+      "policyId": "c5609c4800c05e82c4219ccf14c7fdf5212e11f83dbbb57ac716e98e",
+      "subject": "c5609c4800c05e82c4219ccf14c7fdf5212e11f83dbbb57ac716e98e666c756666",
+      "description": "The official Ted Nation currency",
+      "name": "Ted Nation",
+      "ticker": "fluff",
+      "decimals": 0
+    },
+    {
+      "policyId": "2e46bfba93ffd8f96568803ea5fa21821dc8c78dc84e9655fc6b9f5f",
+      "subject": "2e46bfba93ffd8f96568803ea5fa21821dc8c78dc84e9655fc6b9f5f464d54",
+      "description": "A utility token for bringing different kinds of food\nto different kinds of people all around the world.\n.\nFor Example:\nThere aren't corndogs in Wales.\n.\nMinted:\nPsychedelic Sundays — July 10, 2022\n.\nSupply:\nSixty-Nine Million",
+      "name": "Food Mobile Token",
+      "ticker": "FMT",
+      "decimals": 0
+    },
+    {
+      "policyId": "4d038d08e68f53d21462e8982a5334c6ffbf65e7ae7eb064c568dd1e",
+      "subject": "4d038d08e68f53d21462e8982a5334c6ffbf65e7ae7eb064c568dd1e464f524745",
+      "description": "Forge Minting Service Token",
+      "name": "Forge Minting Token",
+      "ticker": "FORGE",
+      "decimals": 0
+    },
+    {
+      "policyId": "222542ad29f00a12cae97219d3f782ebae6252b7a9caa055febf172b",
+      "subject": "222542ad29f00a12cae97219d3f782ebae6252b7a9caa055febf172b4652414374696f6e",
+      "description": "—Description—\nFRACTion is an NFT that identifies as an FT\nwith a total supply of ONE\n—Divisible—\nby one million\n—HODLer Rights—\nOwners of a fractional FRAC are entitled to\nproportional ownership of the FRACtion\n—Published by—\nFun City",
+      "name": "FRACtion",
+      "ticker": "FRAC",
+      "decimals": 6
+    },
+    {
+      "policyId": "d2442fa6d08c72811d4bccdb36d0cb35cb28f4db4c5793ef00aff5f1",
+      "subject": "d2442fa6d08c72811d4bccdb36d0cb35cb28f4db4c5793ef00aff5f1244652414354414c53",
+      "description": "$FRACTALS are a fractal reserve ₳d₳ ¢urren¢y token",
+      "name": "$FRACTALS",
+      "ticker": "FRACT",
+      "decimals": 0
+    },
+    {
+      "policyId": "996ab5624993a5962ed7145036acfb8f65f08fbac51b8de673bf3327",
+      "subject": "996ab5624993a5962ed7145036acfb8f65f08fbac51b8de673bf33274672657368383038",
+      "description": "A Cryptocurrency funded Independent Record Label that aims to build a network for artists and producers.",
+      "name": "Fresh808",
+      "ticker": "FRESH",
+      "decimals": 0
+    },
+    {
+      "policyId": "7554cb64bf387e630e1f990357a96176c5c77538dae9e1efe56c7d79",
+      "subject": "7554cb64bf387e630e1f990357a96176c5c77538dae9e1efe56c7d7946524e",
+      "description": "Utility token of the Foreon.network protocol",
+      "name": "Foreon Network",
+      "ticker": "FRN",
+      "decimals": 6
+    },
+    {
+      "policyId": "ed8108139c6260c7bd506eac207d2026e7b4813ef396de68733dfa33",
+      "subject": "ed8108139c6260c7bd506eac207d2026e7b4813ef396de68733dfa334c75636b20546f6b656e73",
+      "description": "%u3055%u3055%u3044%u306A%u3053%u3068%u3068%u5C0F%u3055%u3044%u3053%u3068%u3002%20%u80C6%u6C41%u3067%u514B%u670D%u3055%u308C%u307E%u3059%u3002%20%u3072%u308B%u3093%u3060%u5929%u624D%u304C%u5012%u308C%u306A%u3044%u3068%u304D%u3002",
+      "name": "Luck Tokens",
+      "ticker": "FU",
+      "decimals": 4
+    },
+    {
+      "policyId": "a1fb1a8f55298d54133e96c8edba68244ef14d9e27272bf9b9643e0a",
+      "subject": "a1fb1a8f55298d54133e96c8edba68244ef14d9e27272bf9b9643e0a465844",
+      "description": "Official Governance and Utility Token of Foxxed!",
+      "name": "FXD",
+      "ticker": "FXD",
+      "decimals": 6
+    },
+    {
+      "policyId": "48d67fb303c89ed4297a95af6952a0195326ef4116ce29a109079427",
+      "subject": "48d67fb303c89ed4297a95af6952a0195326ef4116ce29a10907942747616c676f",
+      "description": "The Galgos utility, governance, Play2Earn and Hold2Earn reward token",
+      "name": "The Galgos Token",
+      "ticker": "GALGO",
+      "decimals": 0
+    },
+    {
+      "policyId": "bd995ac0a5e21802b0e055a40eb3b2c45a747a571401dfed346267d9",
+      "subject": "bd995ac0a5e21802b0e055a40eb3b2c45a747a571401dfed346267d947414d45",
+      "description": "ADAgames - play, connect, earn",
+      "name": "ADAgames",
+      "ticker": "GAME",
+      "decimals": 0
+    },
+    {
+      "policyId": "7e4f764cd4283d99b2bbf532d80e8105c3ae58a21b089bce8068170b",
+      "subject": "7e4f764cd4283d99b2bbf532d80e8105c3ae58a21b089bce8068170b4745434b",
+      "description": "GECK - Climbing to the Moon on Cardano!",
+      "name": "GECK",
+      "ticker": "GECK",
+      "decimals": 0
+    },
+    {
+      "policyId": "fb5f0e85282ed71402da1ba6eb8a5a6598a2b9325bdb59f9ada60543",
+      "subject": "fb5f0e85282ed71402da1ba6eb8a5a6598a2b9325bdb59f9ada60543474549534841",
+      "description": "CoinsDojo ecosystem gaming & utility token.",
+      "name": "GEISHA",
+      "ticker": "GEISHA",
+      "decimals": 0
+    },
+    {
+      "policyId": "10a49b996e2402269af553a8a96fb8eb90d79e9eca79e2b4223057b6",
+      "subject": "10a49b996e2402269af553a8a96fb8eb90d79e9eca79e2b4223057b64745524f",
+      "description": "Governance Token of GERO Ecosystem",
+      "name": "GERO",
+      "ticker": "GERO",
+      "decimals": 6
+    },
+    {
+      "policyId": "af3d70acf4bd5b3abb319a7d75c89fb3e56eafcdd46b2e9b57a2557f",
+      "subject": "af3d70acf4bd5b3abb319a7d75c89fb3e56eafcdd46b2e9b57a2557f063203a165a7df292ee114897aa04d23072ab46e1e5b4b683bd663d1327210e7",
+      "description": "A token that represents a share of the GERO/ADA pairing liquidity pool on the MuesliSwap Hybrid DEX.",
+      "name": "MuesliSwap GERO/ADA LP token",
+      "ticker": "GERO/ADA",
+      "decimals": 0
+    },
+    {
+      "policyId": "f4e5dee3a52c9bd4461737e7a86742f2abdf11bf8138df5e6e097a2e",
+      "subject": "f4e5dee3a52c9bd4461737e7a86742f2abdf11bf8138df5e6e097a2e474747",
+      "description": "GAGAGE",
+      "name": "GGG",
+      "ticker": "GGG",
+      "decimals": 0
+    },
+    {
+      "policyId": "af0b6bcb7d421c3bad251858904a18c053c484373c317b8d3aa27668",
+      "subject": "af0b6bcb7d421c3bad251858904a18c053c484373c317b8d3aa2766847495120546f6b656e",
+      "description": "utility token test",
+      "name": "GIQ Token",
+      "ticker": "GIQ",
+      "decimals": 6
+    },
+    {
+      "policyId": "a6b79d72e828164c61acc4c8287987cbb1442bf7a454c76c2b48b216",
+      "subject": "a6b79d72e828164c61acc4c8287987cbb1442bf7a454c76c2b48b216474d41",
+      "description": "Native ADA token to fund Grandma's retirement.",
+      "name": "Grandma",
+      "ticker": "GMA",
+      "decimals": 0
+    },
+    {
+      "policyId": "6cd25f5953ac3af464b776ff3ca03c81a37d0fad4e4c4bd9253856cc",
+      "subject": "6cd25f5953ac3af464b776ff3ca03c81a37d0fad4e4c4bd9253856cc474d46414d",
+      "description": "This is the official token of GMFAM",
+      "name": "GMFAM Coin",
+      "ticker": "GMFAM",
+      "decimals": 0
+    },
+    {
+      "policyId": "d03119657f901cd7f020782e30cd3d4304c40034cf6fa29b73aefe9b",
+      "subject": "d03119657f901cd7f020782e30cd3d4304c40034cf6fa29b73aefe9b2447726f6f76696573",
+      "description": "Reward token for The Groovy Nerds stake pool",
+      "name": "$Groovies",
+      "ticker": "GNerd",
+      "decimals": 0
+    },
+    {
+      "policyId": "494bd44f8fa8080b62630839ece78d9942525c3bfcf1ffa6266b84c7",
+      "subject": "494bd44f8fa8080b62630839ece78d9942525c3bfcf1ffa6266b84c75468656d6565747570",
+      "description": "Episode 2 The meet up",
+      "name": "The meet up",
+      "ticker": "Gnmtup",
+      "decimals": 1
+    },
+    {
+      "policyId": "494bd44f8fa8080b62630839ece78d9942525c3bfcf1ffa6266b84c7",
+      "subject": "494bd44f8fa8080b62630839ece78d9942525c3bfcf1ffa6266b84c7476e6f6d69657320526f61644d6170",
+      "description": "The RoadMap for The Gnomies",
+      "name": "Gnomies RoadMap",
+      "ticker": "GnoMap",
+      "decimals": 0
+    },
+    {
+      "policyId": "c17efd9ff177b1176db4163be2bb3640b4aa94b8ccae62c3a1901267",
+      "subject": "c17efd9ff177b1176db4163be2bb3640b4aa94b8ccae62c3a1901267474f4c44",
+      "description": "The official Golden Poop currency",
+      "name": "Golden Poop",
+      "ticker": "GOLD",
+      "decimals": 0
+    },
+    {
+      "policyId": "cffb49d56fa399683f23c879228506e377b7a48900c8e227412618a5",
+      "subject": "cffb49d56fa399683f23c879228506e377b7a48900c8e227412618a5474f4c46",
+      "description": "For love of the game",
+      "name": "Golf",
+      "ticker": "GOLF",
+      "decimals": 0
+    },
+    {
+      "policyId": "92292852e3820cfbe99874b284fdf2befbddb38e070cf3512009a60a",
+      "subject": "92292852e3820cfbe99874b284fdf2befbddb38e070cf3512009a60a47726179506561726c",
+      "description": "Speculative Tokens",
+      "name": "Gray Pearl",
+      "ticker": "GP",
+      "decimals": 6
+    },
+    {
+      "policyId": "dd5c3cebfbdef5c37aff39980e85e48ea80c9cde855a97d16105e2c4",
+      "subject": "dd5c3cebfbdef5c37aff39980e85e48ea80c9cde855a97d16105e2c447504159",
+      "description": "Global Pay Currency is a native token of the Cardano Network, is an asset of the interchangeable future of person to person without the intermediation of a third party or a financial institution. Its displacement in the network is equal to ADA allowing transactions and confirmations in minutes.",
+      "name": "Global Pay Currency",
+      "ticker": "GPAY",
+      "decimals": 0
+    },
+    {
+      "policyId": "0cd63d555a6e9957d428c6a53dd3d20b9553f655664eafd056a97c77",
+      "subject": "0cd63d555a6e9957d428c6a53dd3d20b9553f655664eafd056a97c774752415353",
+      "description": "Grass Token is a native asset on the Cardano blockchain that powers the GOAT Tribe ecosystem",
+      "name": "GRASS",
+      "ticker": "GRASS",
+      "decimals": 6
+    },
+    {
+      "policyId": "32cc9c6c3456bc048d14a4a8e4ee3592e9664e8daac921a8ef52d92a",
+      "subject": "32cc9c6c3456bc048d14a4a8e4ee3592e9664e8daac921a8ef52d92a4752415353",
+      "description": "Grass Token powers the GOAT Tribe ecosystem.",
+      "name": "GRASS",
+      "ticker": "GRASS",
+      "decimals": 6
+    },
+    {
+      "policyId": "4623ab311b7d982d8d26fcbe1a9439ca56661aafcdcd8d8a0ef31fd6",
+      "subject": "4623ab311b7d982d8d26fcbe1a9439ca56661aafcdcd8d8a0ef31fd6475245454e53",
+      "description": "Greens - The fuel for Virtually Made's ecosystem.",
+      "name": "Greens",
+      "ticker": "GREENS",
+      "decimals": 6
+    },
+    {
+      "policyId": "aea1ceb3625680e2f7a31ea1a64c9c430c34d8588bf4f8e3c7f9b1dd",
+      "subject": "aea1ceb3625680e2f7a31ea1a64c9c430c34d8588bf4f8e3c7f9b1dd476f74636869",
+      "description": "Offical Token of the Adagotchi Ecosystem.",
+      "name": "Gotchi",
+      "ticker": "GTCHI",
+      "decimals": 6
+    },
+    {
+      "policyId": "b031898d2d2e37a94a7fea5e30765f49a33b61e1b5c7fd40982f6e2d",
+      "subject": "b031898d2d2e37a94a7fea5e30765f49a33b61e1b5c7fd40982f6e2d46696e65737448324f",
+      "description": "A currency for H2O Lovers of the World.",
+      "name": "The Finest H2O Test",
+      "ticker": "H2O",
+      "decimals": 3
+    },
+    {
+      "policyId": "01a97d27a0b0d6cf96e232e3164470ba3a098a9bf2e863219eaf0fd7",
+      "subject": "01a97d27a0b0d6cf96e232e3164470ba3a098a9bf2e863219eaf0fd756414c48414c4c41",
+      "description": "A Cardano native token immortalizing Valhalla - The Dwelling place of Gods",
+      "name": "Valhalla",
+      "ticker": "HALLA",
+      "decimals": 0
+    },
+    {
+      "policyId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9",
+      "subject": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96861707079",
+      "description": "The sender of this token is Happy",
+      "name": "Happy",
+      "ticker": "Happy",
+      "decimals": 0
+    },
+    {
+      "policyId": "b38d94e35b3e638dce7e5e0b0aeebcbe06987a118b46d3d4c042c8c2",
+      "subject": "b38d94e35b3e638dce7e5e0b0aeebcbe06987a118b46d3d4c042c8c26861726d6c657373636f696e",
+      "description": "harmlesscoin token",
+      "name": "harmlesscoin",
+      "ticker": "HARM",
+      "decimals": 8
+    },
+    {
+      "policyId": "9a3c722722dda2f407d639c5cda46845c9090f204b61677765d12793",
+      "subject": "9a3c722722dda2f407d639c5cda46845c9090f204b61677765d1279348616c616c42726f6b6572",
+      "description": "Halal Broker",
+      "name": "Halal Broker",
+      "ticker": "HBT",
+      "decimals": 0
+    },
+    {
+      "policyId": "ea66e9eb48dd39d5bba62760a6b79f0483a3deeda4983e6316481161",
+      "subject": "ea66e9eb48dd39d5bba62760a6b79f0483a3deeda4983e631648116148454156454e",
+      "description": "Cardano is the road to Heaven",
+      "name": "Heaven",
+      "ticker": "HEAVEN",
+      "decimals": 0
+    },
+    {
+      "policyId": "c73b1775ce174312f8c3ee9b7845b6cbd493b78768eea137c9c8136d",
+      "subject": "c73b1775ce174312f8c3ee9b7845b6cbd493b78768eea137c9c8136d4845494d44414c4c",
+      "description": "A Cardano native token spiritualizing Heimdall - God of Foresight",
+      "name": "Heimdall",
+      "ticker": "HEIMD",
+      "decimals": 0
+    },
+    {
+      "policyId": "fe5a0c7b756102cc12c7f8e864a66a99c598834dd68f682a13ef6dfc",
+      "subject": "fe5a0c7b756102cc12c7f8e864a66a99c598834dd68f682a13ef6dfc48454c",
+      "description": "A Cardano native token embodying HEL - Goddess of Death",
+      "name": "Hel",
+      "ticker": "HEL",
+      "decimals": 0
+    },
+    {
+      "policyId": "5e7b4aefc336b7461f45366862d0c2735b1ba0a4a43184524092e577",
+      "subject": "5e7b4aefc336b7461f45366862d0c2735b1ba0a4a43184524092e57748454c50",
+      "description": "The help token will be used to help the homeless.",
+      "name": "HELP",
+      "ticker": "HELP",
+      "decimals": 6
+    },
+    {
+      "policyId": "4aa69bbcf61d58f25e66500852f5af00ddfd7a03f6a3715fb5b32532",
+      "subject": "4aa69bbcf61d58f25e66500852f5af00ddfd7a03f6a3715fb5b32532484950504f",
+      "description": "HIPPO COIN  \r\nhippopotamus",
+      "name": "HIPPO",
+      "ticker": "HIPPO",
+      "decimals": 0
+    },
+    {
+      "policyId": "b3ca85a807a2fcc7d125dc8fd3907464d97d9966f704f4fed03ebe6f",
+      "subject": "b3ca85a807a2fcc7d125dc8fd3907464d97d9966f704f4fed03ebe6f486f646c722d477265656e",
+      "description": "Stake ₳DA with the Hodler Coalition. Save the World.",
+      "name": "Hodler Coalition Coin",
+      "ticker": "HODLR",
+      "decimals": 4
+    },
+    {
+      "policyId": "af3d70acf4bd5b3abb319a7d75c89fb3e56eafcdd46b2e9b57a2557f",
+      "subject": "af3d70acf4bd5b3abb319a7d75c89fb3e56eafcdd46b2e9b57a2557fcca1607ab60abcbae3d93f6d8e72ba70e7506803e74f25e6936944ac1e1143cc",
+      "description": "A token that represents a share of the HOSKY/ADA pairing liquidity pool on the MuesliSwap Hybrid DEX.",
+      "name": "MuesliSwap HOSKY/ADA LP token",
+      "ticker": "HOSKY/ADA",
+      "decimals": 0
+    },
+    {
+      "policyId": "0dafac5b0f0a3341585de75624b7b14cd45c2619466fb6aae22884e1",
+      "subject": "0dafac5b0f0a3341585de75624b7b14cd45c2619466fb6aae22884e1485053",
+      "description": "HPS is a booster token for the Billion Happiness project to support, build an ecosystem, and Develop the NFT marketplace.",
+      "name": "Happiness Token",
+      "ticker": "HPS",
+      "decimals": 6
+    },
+    {
+      "policyId": "c4c497a70541172b39be5d30c89e07a047b0a75b17adbf41927a5c97",
+      "subject": "c4c497a70541172b39be5d30c89e07a047b0a75b17adbf41927a5c9748545048",
+      "description": "One memecoin on Cardano for absolutely nothing. Just for laugh.",
+      "name": "Hide the pain Harold Meme Token",
+      "ticker": "HTPH",
+      "decimals": 0
+    },
+    {
+      "policyId": "43a078846ae28140f5a5c2714ffcc689555d7e0efcfcaf79ce2910fa",
+      "subject": "43a078846ae28140f5a5c2714ffcc689555d7e0efcfcaf79ce2910fa4879647261",
+      "description": "Join the Gaming Revolution on Cardano's Web3 Frontier.",
+      "name": "HydraGames",
+      "ticker": "HYDRGMS",
+      "decimals": 0
+    },
+    {
+      "policyId": "20654d54074ee2b292c4f115b6143bae99eb17382e2ad533f8a8539b",
+      "subject": "20654d54074ee2b292c4f115b6143bae99eb17382e2ad533f8a8539b48594e",
+      "description": "HYN ISPO token",
+      "name": "HYN",
+      "ticker": "HYN",
+      "decimals": 6
+    },
+    {
+      "policyId": "4f340765e555133223ebe8e4b0fe459fb83b563c309384b0abdf9ace",
+      "subject": "4f340765e555133223ebe8e4b0fe459fb83b563c309384b0abdf9ace48594e",
+      "description": "HHMC Staking and Gaming token",
+      "name": "Hyena Token",
+      "ticker": "HYN",
+      "decimals": 0
+    },
+    {
+      "policyId": "92c2599c52c3f93235f69c9769c99633772746fa9bfb40b989c07d8c",
+      "subject": "92c2599c52c3f93235f69c9769c99633772746fa9bfb40b989c07d8c49414d58",
+      "description": "IAMX Identity Token",
+      "name": "IAMX",
+      "ticker": "IAMX",
+      "decimals": 0
+    },
+    {
+      "policyId": "552808f5ca140873e9d5bf52fbdcb215e5cbea836fdb4b06c23c9174",
+      "subject": "552808f5ca140873e9d5bf52fbdcb215e5cbea836fdb4b06c23c917449444f4c",
+      "description": "Influence token for False Idols",
+      "name": "IDOL",
+      "ticker": "IDOL",
+      "decimals": 6
+    },
+    {
+      "policyId": "b9168f05e657b6946fede254e383586cf7e7a2573d5a0fa12b3ef6ac",
+      "subject": "b9168f05e657b6946fede254e383586cf7e7a2573d5a0fa12b3ef6ac494450",
+      "description": "The Initial DEX Offering Utility Token from IDO PASS DAO. IDO Pass DAO is the first Cardano DAO to focus on IDO's, Launchpads, and Blue Chip CNFT Fractionalization. This Token is your key to accessing all aspects of the IDP Ecosystem.",
+      "name": "IDO Pass DAO Utility Token",
+      "ticker": "IDP",
+      "decimals": 0
+    },
+    {
+      "policyId": "ad51e1acb6fe0d3e244260efdb240acd3b515d8e448161f143cb1b51",
+      "subject": "ad51e1acb6fe0d3e244260efdb240acd3b515d8e448161f143cb1b514944554e",
+      "description": "A Cardano native token adoring Idun - Goddess of Youthfulness",
+      "name": "Idun",
+      "ticker": "IDUN",
+      "decimals": 0
+    },
+    {
+      "policyId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9",
+      "subject": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9696e6661747561746564",
+      "description": "The sender of this token is Infatuated",
+      "name": "Infatuated",
+      "ticker": "Infat",
+      "decimals": 0
+    },
+    {
+      "policyId": "e45605e3f7d131723422c67353a3d2e0cccc06192e2e92efab9c8deb",
+      "subject": "e45605e3f7d131723422c67353a3d2e0cccc06192e2e92efab9c8deb496e73616e6961",
+      "description": "Induced madness from prolonged exposure to a Horrocube.",
+      "name": "Insania",
+      "ticker": "INSANIA",
+      "decimals": 0
+    },
+    {
+      "policyId": "1f54e684419ce562383dbbacce7adde31e3ffa1611213b7caf58c22f",
+      "subject": "1f54e684419ce562383dbbacce7adde31e3ffa1611213b7caf58c22f494e54",
+      "description": "Currency of the freight transportation.",
+      "name": "Intragora Digital",
+      "ticker": "INT",
+      "decimals": 4
+    },
+    {
+      "policyId": "3f2babe4cd376aa455cb1bd8ce6eb19245c82edbc858d3276d95999e",
+      "subject": "3f2babe4cd376aa455cb1bd8ce6eb19245c82edbc858d3276d95999e494e5449",
+      "description": "Democratizing renewable energies.",
+      "name": "Intitech",
+      "ticker": "INTI",
+      "decimals": 0
+    },
+    {
+      "policyId": "9501a2923aec2a042e58dcf16fdd16a7f80e0c69bb6202be181ea499",
+      "subject": "9501a2923aec2a042e58dcf16fdd16a7f80e0c69bb6202be181ea499494e544954454348",
+      "description": "A Solar energy currency.",
+      "name": "INTITECH",
+      "ticker": "INTI",
+      "decimals": 4
+    },
+    {
+      "policyId": "56e871cc0c38e683ba5772e425c7efc1cc19d754fff1f8e3705a0b81",
+      "subject": "56e871cc0c38e683ba5772e425c7efc1cc19d754fff1f8e3705a0b81495157494b49",
+      "description": "This is the official token of IQ.wiki",
+      "name": "IQWIKI",
+      "ticker": "IQ",
+      "decimals": 0
+    },
+    {
+      "policyId": "e5a8fc6d4b185ee1ad1742f3679de73a4f136332d07836c208b3fb92",
+      "subject": "e5a8fc6d4b185ee1ad1742f3679de73a4f136332d07836c208b3fb92495353415241",
+      "description": "ISSARA is a utility token with a purpose.",
+      "name": "ISSARA",
+      "ticker": "ISSA",
+      "decimals": 6
+    },
+    {
+      "policyId": "03c2a0cdd801ee9e674b91d897d530b0c85a22dc6bce17f70fbdda54",
+      "subject": "03c2a0cdd801ee9e674b91d897d530b0c85a22dc6bce17f70fbdda54497463687942757474",
+      "description": "Everyone has an itchy butt... especially in the winter.",
+      "name": "ItchyButt",
+      "ticker": "ITCH",
+      "decimals": 6
+    },
+    {
+      "policyId": "c0e5564cf5786031d9053f567ec78b8383a0f2bc01318e690e0503f4",
+      "subject": "c0e5564cf5786031d9053f567ec78b8383a0f2bc01318e690e0503f4",
+      "description": "Utility token for Liqwid iUSD market",
+      "name": "Liqwid iUSD Batch",
+      "ticker": "iUSDBATCH",
+      "decimals": 0
+    },
+    {
+      "policyId": "416109f322b43051b80e83075b4baa8c5af14c88acaca47d5c251820",
+      "subject": "416109f322b43051b80e83075b4baa8c5af14c88acaca47d5c251820",
+      "description": "Utility token for Liqwid iUSD market",
+      "name": "Liqwid iUSD MarketState",
+      "ticker": "iUSDST",
+      "decimals": 0
+    },
+    {
+      "policyId": "867876c57c25425629cd0ea98c2c3424753867b2d64da5132447e1c8",
+      "subject": "867876c57c25425629cd0ea98c2c3424753867b2d64da5132447e1c84a554e474c45",
+      "description": "The token dropped on great wallets. No buys from source.",
+      "name": "JUNGLE",
+      "ticker": "JUNGL",
+      "decimals": 0
+    },
+    {
+      "policyId": "f9540201cc1d6267adfa0a29cfbcc30c5594759a470bf15fe8a844b8",
+      "subject": "f9540201cc1d6267adfa0a29cfbcc30c5594759a470bf15fe8a844b84b415348",
+      "description": "Cardano Kash is a token awarded to delegators in the KASH stake pool",
+      "name": "Cardano Kash",
+      "ticker": "KASH",
+      "decimals": 0
+    },
+    {
+      "policyId": "cb53b2d3cfab2d599e42c156fc0d877c60f74af5761317501d8a5a8d",
+      "subject": "cb53b2d3cfab2d599e42c156fc0d877c60f74af5761317501d8a5a8d6b61747a",
+      "description": "A token of  katz , Helping make this world a better place",
+      "name": "KATZ Scottish Fold Token",
+      "ticker": "KATZ",
+      "decimals": 0
+    },
+    {
+      "policyId": "1111170eb2f1fc2eaf1ea6503c0160eda20de2a84418f988720a7c8e",
+      "subject": "1111170eb2f1fc2eaf1ea6503c0160eda20de2a84418f988720a7c8e4b525950544f",
+      "description": "Utility token to be used within the Krypto Threadz ecosystem.",
+      "name": "Krypto Coin",
+      "ticker": "KC",
+      "decimals": 0
+    },
+    {
+      "policyId": "5463fb57c8502e8c06227ca3682d54795b88cfaf8b5a264122c95a79",
+      "subject": "5463fb57c8502e8c06227ca3682d54795b88cfaf8b5a264122c95a794b4c53546f6b656e",
+      "description": "Kulfi Finance",
+      "name": "KLS Token",
+      "ticker": "KLS",
+      "decimals": 0
+    },
+    {
+      "policyId": "a3085efd8f9335c78f0d7fd57b6018d54f1512f2404b7fa4abc59e0b",
+      "subject": "a3085efd8f9335c78f0d7fd57b6018d54f1512f2404b7fa4abc59e0b4b4e55434b4c4553",
+      "description": "Official KNUCKLES token",
+      "name": "KNUCKLES Coin",
+      "ticker": "KNUCKLES",
+      "decimals": 0
+    },
+    {
+      "policyId": "63766427b4499dd678cb8b715dec3265dd292279ce7779447e3651e5",
+      "subject": "63766427b4499dd678cb8b715dec3265dd292279ce7779447e3651e54b4f5a",
+      "description": "Collect, Trade and Earn ADA on the most corrupt world.",
+      "name": "Politikoz Token",
+      "ticker": "KOZ",
+      "decimals": 0
+    },
+    {
+      "policyId": "3f476f694e08a7c33a3ab2eae470c1fb94e384155197de0bb48db056",
+      "subject": "3f476f694e08a7c33a3ab2eae470c1fb94e384155197de0bb48db0564b524150",
+      "description": "The worst triangular memecoin in the metaverse.",
+      "name": "KrapKoin",
+      "ticker": "KRAP",
+      "decimals": 0
+    },
+    {
+      "policyId": "7a7b037968025bc35b9b156cdb43a4585a2a674440c880a8131382db",
+      "subject": "7a7b037968025bc35b9b156cdb43a4585a2a674440c880a8131382db4b55425a",
+      "description": "KUBZ, the meme token that's roaring to the moon.",
+      "name": "KUBZ",
+      "ticker": "KUBZ",
+      "decimals": 0
+    },
+    {
+      "policyId": "a9a685eb31d6328a77af5a0ac81735f115c6eac4ccdf2bb2fa832ce9",
+      "subject": "a9a685eb31d6328a77af5a0ac81735f115c6eac4ccdf2bb2fa832ce94b5853",
+      "description": "KWARXS is fractionizing stakes in existing and new real-world green energy projects with a focus on solar farms. Customers receive an APY which is contractually secured by the sales proceeds from the energy and has a term of 8 to 25 years. The purchase of project shares by customers & the APY is rea",
+      "name": "KWARXS native token",
+      "ticker": "KXS",
+      "decimals": 6
+    },
+    {
+      "policyId": "fbb238009cbc914004e7d1efbc41a56998152423f474edc3bbc22f45",
+      "subject": "fbb238009cbc914004e7d1efbc41a56998152423f474edc3bbc22f454c415652",
+      "description": "Light Art VR token powers our 3D and VR Asset environment to create NFT Collectables",
+      "name": "Light Art VR",
+      "ticker": "LAVR",
+      "decimals": 6
+    },
+    {
+      "policyId": "bd392ff9dfe41b5af3769092c95c1931d8421ca1499df50baf148d2e",
+      "subject": "bd392ff9dfe41b5af3769092c95c1931d8421ca1499df50baf148d2e454f5a",
+      "description": "More digital and more rare EOZ token",
+      "name": "Yunemoz Lite",
+      "ticker": "LEOZ",
+      "decimals": 0
+    },
+    {
+      "policyId": "a260c57670860519571203e389a6388b7114ab8dbba7fd3a9c4e5da5",
+      "subject": "a260c57670860519571203e389a6388b7114ab8dbba7fd3a9c4e5da5244c4742545149412b",
+      "description": "A token supporting the LGBTQIA+ Communities",
+      "name": "$LGBTQIA+",
+      "ticker": "LGBTQ",
+      "decimals": 0
+    },
+    {
+      "policyId": "79c082708a6ec276f4f12d823cc2940b24b733e1cc6ca6019a293d3d",
+      "subject": "79c082708a6ec276f4f12d823cc2940b24b733e1cc6ca6019a293d3d4c494645",
+      "description": "\"My ideas make me immortal.\" -Engr Alex Andres Valdez",
+      "name": "Life and immortality",
+      "ticker": "LIFE",
+      "decimals": 0
+    },
+    {
+      "policyId": "d2d7299d615cc9ad32402135a2cfd596325ac39504ba6d28c18d18bd",
+      "subject": "d2d7299d615cc9ad32402135a2cfd596325ac39504ba6d28c18d18bd43617264616c6f6e6961",
+      "description": "Currency Of The Cardalonia Ecosystem",
+      "name": "Cardalonia",
+      "ticker": "LONIA",
+      "decimals": 0
+    },
+    {
+      "policyId": "c5d92ac49243edaf361c4abcd56254f9592af234213e260039eb955b",
+      "subject": "c5d92ac49243edaf361c4abcd56254f9592af234213e260039eb955b4c4f5652",
+      "description": "The largest Brazilian social networking site for sugar babies",
+      "name": "Kinkee Love",
+      "ticker": "LOVR",
+      "decimals": 0
+    },
+    {
+      "policyId": "1f32a62d737697fbf8a15d9e197b7597e39f54d2b2a7a8cee9af45a3",
+      "subject": "1f32a62d737697fbf8a15d9e197b7597e39f54d2b2a7a8cee9af45a34c4f59414c",
+      "description": "Official LOYAL coin",
+      "name": "LOYAL Coin",
+      "ticker": "LOYAL",
+      "decimals": 0
+    },
+    {
+      "policyId": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d24",
+      "subject": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+      "description": "Algorithmic, non-custodial liquidity protocol for lending and borrowing on Cardano.",
+      "name": "Liqwid DAO Token",
+      "ticker": "LQ",
+      "decimals": 6
+    },
+    {
+      "policyId": "8434cc23a47cfa0d68d729b480169bfa3f910310a8184f43cfbcc02c",
+      "subject": "8434cc23a47cfa0d68d729b480169bfa3f910310a8184f43cfbcc02c0014df104c5459",
+      "description": "Ledgity is a crypto wealth app and a yield protocol on stablecoin backed by real world asset",
+      "name": "Ledgity",
+      "ticker": "LTY",
+      "decimals": 6
+    },
+    {
+      "policyId": "07cceab5ea30fd508ab7cb79fb14a6640ae183aa0bc110f73b4c51e4",
+      "subject": "07cceab5ea30fd508ab7cb79fb14a6640ae183aa0bc110f73b4c51e44c554359",
+      "description": "Byron Network is a Cardano-based ecosystem of DApps. LUCY token is for testing purposes.",
+      "name": "Byron Network LUCY Test Token",
+      "ticker": "LUCY",
+      "decimals": 4
+    },
+    {
+      "policyId": "8e5d2909dedd5203c6d0b41c8f3c3b36d872ca4063464565722da0cb",
+      "subject": "8e5d2909dedd5203c6d0b41c8f3c3b36d872ca4063464565722da0cb6c756e6172636f696e",
+      "description": "Official currency of lunarpool.io",
+      "name": "lunarcoin",
+      "ticker": "LUNAR",
+      "decimals": 0
+    },
+    {
+      "policyId": "25ff9715e1619277ef98c49a16f75d9dc430895504a82febb57e4713",
+      "subject": "25ff9715e1619277ef98c49a16f75d9dc430895504a82febb57e471355534454",
+      "description": "Tether USD bridged through Nomad",
+      "name": "USDT (Nomad)",
+      "ticker": "madUSDT",
+      "decimals": 6
+    },
+    {
+      "policyId": "84c920ee2b81a5cc5fca698a0b18093cc5d033e362e187acb83c577f",
+      "subject": "84c920ee2b81a5cc5fca698a0b18093cc5d033e362e187acb83c577f57425443",
+      "description": "Wrapped Bitcoin bridged through Nomad.",
+      "name": "WBTC (Nomad)",
+      "ticker": "madWBTC",
+      "decimals": 10
+    },
+    {
+      "policyId": "318847394ec6842e1069f93c4b3641418a128ab57a97fcca520c7ff2",
+      "subject": "318847394ec6842e1069f93c4b3641418a128ab57a97fcca520c7ff257455448",
+      "description": "Wrapped Ether bridged through Nomad.",
+      "name": "WETH (Nomad)",
+      "ticker": "madWETH",
+      "decimals": 10
+    },
+    {
+      "policyId": "9ff14600a3fdaee6da3b1e3d227e2235d1fad199c3691ba2c7d8665a",
+      "subject": "9ff14600a3fdaee6da3b1e3d227e2235d1fad199c3691ba2c7d8665a4d415253",
+      "description": "MarsBirds Token",
+      "name": "MARS",
+      "ticker": "MARS",
+      "decimals": 0
+    },
+    {
+      "policyId": "c13315811344bac579552ef1464780db855bdccd7e551ba73c1ae402",
+      "subject": "c13315811344bac579552ef1464780db855bdccd7e551ba73c1ae4026d616174",
+      "description": "Maât is a stable digital asset, backed by fiat currencies & gold, that provides individuals and organizations a robust and decentralized method of exchanging assets while using a familiar accounting unit.",
+      "name": "Maât",
+      "ticker": "MAT",
+      "decimals": 2
+    },
+    {
+      "policyId": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e564683",
+      "subject": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e5646834d41595a",
+      "description": "Official token of the MAYZ protocol.",
+      "name": "MAYZ",
+      "ticker": "MAYZ",
+      "decimals": 6
+    },
+    {
+      "policyId": "6f46e1304b16d884c85c62fb0eef35028facdc41aaa0fd319a152ed6",
+      "subject": "6f46e1304b16d884c85c62fb0eef35028facdc41aaa0fd319a152ed64d434f53",
+      "description": "Token MCOS of Mocossi Project to Play and Earn",
+      "name": "MCOS",
+      "ticker": "MCOS",
+      "decimals": 6
+    },
+    {
+      "policyId": "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d10",
+      "subject": "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44",
+      "description": "Deprecated version of the governance token of the MELD protocol.",
+      "name": "MELD",
+      "ticker": "MELD",
+      "decimals": 6
+    },
+    {
+      "policyId": "81c53ba48a45d14c05dbd67443e6fdb595fef45947c6eef66f25d598",
+      "subject": "81c53ba48a45d14c05dbd67443e6fdb595fef45947c6eef66f25d5986d656d65",
+      "description": "Cardano Meme-Dao Token",
+      "name": "meme",
+      "ticker": "MEME",
+      "decimals": 6
+    },
+    {
+      "policyId": "3d63964527efea27f0e6dcdd314b68bf8c9fa34249d3989d49007c6a",
+      "subject": "3d63964527efea27f0e6dcdd314b68bf8c9fa34249d3989d49007c6a4d454f57",
+      "description": "Send someone good vibes",
+      "name": "Catjam",
+      "ticker": "MEOW",
+      "decimals": 0
+    },
+    {
+      "policyId": "19c2a6ee081568ac374d4ffabbe1a7ec6118b35347f906cdcc302e09",
+      "subject": "19c2a6ee081568ac374d4ffabbe1a7ec6118b35347f906cdcc302e094d6572",
+      "description": "Learn and Earn, a protocol that will boost learning by rewarding both the teacher's and student's performance.",
+      "name": "Meritus",
+      "ticker": "MER",
+      "decimals": 0
+    },
+    {
+      "policyId": "be0a8fd25186eb73f944ac381709b9537d0834ce49667caba9eb1c43",
+      "subject": "be0a8fd25186eb73f944ac381709b9537d0834ce49667caba9eb1c434d4554414c4f",
+      "description": "The utility token that powers METALOVERSE",
+      "name": "METALO",
+      "ticker": "METALO",
+      "decimals": 6
+    },
+    {
+      "policyId": "fee8e1c842ac273e38c4d30caa08855a93b99a041cb566ba4d44bb6a",
+      "subject": "fee8e1c842ac273e38c4d30caa08855a93b99a041cb566ba4d44bb6a4d4554454f52",
+      "description": "The official token of Jurassik Chained",
+      "name": "METEOR",
+      "ticker": "METEOR",
+      "decimals": 2
+    },
+    {
+      "policyId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9",
+      "subject": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96d6963726f70686f626963",
+      "description": "The sender of this token is Microphobic",
+      "name": "Microphobic",
+      "ticker": "MicPh",
+      "decimals": 0
+    },
+    {
+      "policyId": "be9644d55c29a85a304b5060e83704870f0eeb5f8d5b4f10171a9877",
+      "subject": "be9644d55c29a85a304b5060e83704870f0eeb5f8d5b4f10171a987748617473756e65204d696b752042756e6e7920546f6b656e",
+      "description": "The Fan-made Hatsune Miku as a Bunny Girl Token by Carano Rule 34",
+      "name": "Hatsune Miku Bunny Girl",
+      "ticker": "MIKU39",
+      "decimals": 0
+    },
+    {
+      "policyId": "7cd6d42b1ab5360b18491d52b1af366749fac4d1829e369efba01460",
+      "subject": "7cd6d42b1ab5360b18491d52b1af366749fac4d1829e369efba014604d494c4553",
+      "description": "The Ultimate Crypto Rewards Token",
+      "name": "MILES Token",
+      "ticker": "MILES",
+      "decimals": 8
+    },
+    {
+      "policyId": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa",
+      "subject": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b",
+      "description": "The utility token powering the MuesliSwap ecosystem.",
+      "name": "MILK",
+      "ticker": "MILK",
+      "decimals": 0
+    },
+    {
+      "policyId": "7536b72f0d1f84c7935fc3b4471032ad4ca33b92974d0a3fe7e03e51",
+      "subject": "7536b72f0d1f84c7935fc3b4471032ad4ca33b92974d0a3fe7e03e514d494e474f",
+      "description": "Official The JRney coin",
+      "name": "MINGO",
+      "ticker": "MINGO",
+      "decimals": 0
+    },
+    {
+      "policyId": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c6",
+      "subject": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e74",
+      "description": "MINt tokens can be converted into MIN by using as booster tokens for yield farming on Minswap",
+      "name": "Minswap MINt",
+      "ticker": "MINt",
+      "decimals": 6
+    },
+    {
+      "policyId": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc",
+      "subject": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc4d495241",
+      "description": "The Official Chains of War Token",
+      "name": "MIRA - Chains of War",
+      "ticker": "MIRA",
+      "decimals": 2
+    },
+    {
+      "policyId": "5d0c8a159e94bb2c1a8c4df51e889e1dec8006c5d34e05b8d9843f5f",
+      "subject": "5d0c8a159e94bb2c1a8c4df51e889e1dec8006c5d34e05b8d9843f5f4d494c4b2d4c4245",
+      "description": "Liquidity provider token for participants of the community MILK-pool liquidity bootstrapping event. Represents a share in the community LP tokens generated by the bootstrapping event.",
+      "name": "MILK LBE Token",
+      "ticker": "MLBE",
+      "decimals": 6
+    },
+    {
+      "policyId": "aa036f84174000b81a71131007e45ee44c2d78159a55d19c514a77af",
+      "subject": "aa036f84174000b81a71131007e45ee44c2d78159a55d19c514a77af4d4e4d4c",
+      "description": "The official token of Moonimals",
+      "name": "MNML",
+      "ticker": "MNML",
+      "decimals": 6
+    },
+    {
+      "policyId": "322490202fbfba723c837c54695d80b61c79ed39dee31dd492391f4b",
+      "subject": "322490202fbfba723c837c54695d80b61c79ed39dee31dd492391f4b4d6f6e6579",
+      "description": "One Money",
+      "name": "Money",
+      "ticker": "MONEY",
+      "decimals": 6
+    },
+    {
+      "policyId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9",
+      "subject": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96d6f6e657968756e677279",
+      "description": "The sender of this token is Money-Hungry",
+      "name": "Money-Hungry",
+      "ticker": "Money",
+      "decimals": 0
+    },
+    {
+      "policyId": "599e64a8d2bb33040ae232d3a1a6a725216741d1a63811dbd5483980",
+      "subject": "599e64a8d2bb33040ae232d3a1a6a725216741d1a63811dbd54839804d6f727068436f696e",
+      "description": "The Morphium | Outpost to the World of Cardano",
+      "name": "Morph",
+      "ticker": "MORPH",
+      "decimals": 6
+    },
+    {
+      "policyId": "8c5e25f07996777a5007310521db526910d4a5fc61d61973f534130c",
+      "subject": "8c5e25f07996777a5007310521db526910d4a5fc61d61973f534130c4d53546f6b656e",
+      "description": "Token of the Multiple Sclerosis CNFT Project",
+      "name": "Multiple Sclerosis Token",
+      "ticker": "MSCL",
+      "decimals": 0
+    },
+    {
+      "policyId": "ca622f7887d7bf8af94c00fbdc83641511d0b6c1b61e8811cdbce003",
+      "subject": "ca622f7887d7bf8af94c00fbdc83641511d0b6c1b61e8811cdbce0034d6f6e64617954657374",
+      "description": "A currency for TrueCrime.",
+      "name": "MondayTest",
+      "ticker": "MT",
+      "decimals": 0
+    },
+    {
+      "policyId": "90dcf637d6c683aa82a27177cda8dc4856cde44e678f5700ac845534",
+      "subject": "90dcf637d6c683aa82a27177cda8dc4856cde44e678f5700ac8455344d75727068",
+      "description": "A currency for the FIRE project",
+      "name": "The Murph Token",
+      "ticker": "MURPH",
+      "decimals": 2
+    },
+    {
+      "policyId": "c7b161f1d3969d9db43a7e682c8bd36fceafd6181debb3ee45e8dc43",
+      "subject": "c7b161f1d3969d9db43a7e682c8bd36fceafd6181debb3ee45e8dc434d5554",
+      "description": "An unuseful token that I created for non purpose.",
+      "name": "My unuseful token",
+      "ticker": "MUT",
+      "decimals": 6
+    },
+    {
+      "policyId": "421fa77ca1d1027d7323e341d2011aaddf8d81bac9060dba6b333512",
+      "subject": "421fa77ca1d1027d7323e341d2011aaddf8d81bac9060dba6b3335124d76796669",
+      "description": "This is a Decentralized Funding Token to get Farming for Mazzanti Tokens on VYFI",
+      "name": "Mvyfi",
+      "ticker": "Mvyfi",
+      "decimals": 3
+    },
+    {
+      "policyId": "8f9c32977d2bacb87836b64f7811e99734c6368373958da20172afba",
+      "subject": "8f9c32977d2bacb87836b64f7811e99734c6368373958da20172afba4d5949454c44",
+      "description": "The official yield farming reward token of MuesliSwap.",
+      "name": "MYIELD",
+      "ticker": "MYIELD",
+      "decimals": 6
+    },
+    {
+      "policyId": "cf5d945ad03a11c46e70a85daa8598b2275f9442ceed1249754ad9a1",
+      "subject": "cf5d945ad03a11c46e70a85daa8598b2275f9442ceed1249754ad9a14e4154494f4e",
+      "description": "is the Utility Token for the Ape Nation Ecosystem",
+      "name": "NATION",
+      "ticker": "NATION",
+      "decimals": 6
+    },
+    {
+      "policyId": "3744d5e39333c384505214958c4ed66591a052778512e56caf420f62",
+      "subject": "3744d5e39333c384505214958c4ed66591a052778512e56caf420f624e4542554c41",
+      "description": "Lost in Space Time",
+      "name": "Nebula",
+      "ticker": "NEBULA",
+      "decimals": 8
+    },
+    {
+      "policyId": "9a842044973b2833a711ae2706d33cae1db92b6e8ba7b627b390a83a",
+      "subject": "9a842044973b2833a711ae2706d33cae1db92b6e8ba7b627b390a83a4e455244",
+      "description": "I have made NerdCoin to celebrate all the amazing people around us who creates all that we enjoy in our daily lives. Internet, computers, laptops, NFTs, Blockchains, Sci-Fi, Movies, Technology, stuff, The Lightbulb, The Pixel, Rockets, Etc Etc Etc. A huge part of this, is that those people almost ne",
+      "name": "NerdCoin",
+      "ticker": "NERD",
+      "decimals": 0
+    },
+    {
+      "policyId": "d6167623e9553045821690258fc5d60313ba79112dc1eaaaf371b04f",
+      "subject": "d6167623e9553045821690258fc5d60313ba79112dc1eaaaf371b04f4e6f744576656e546f6b656e",
+      "description": "Not Even Fungible Utility Token",
+      "name": "Not Even Token",
+      "ticker": "NET",
+      "decimals": 6
+    },
+    {
+      "policyId": "58238bf690d3dad2af84167858ae9280ee366b280e70a48d37c6e445",
+      "subject": "58238bf690d3dad2af84167858ae9280ee366b280e70a48d37c6e4454e4641",
+      "description": "Do your own research (DYOR). Not Financial Advice. (Cardano MEME Token)",
+      "name": "Not Financial Advice",
+      "ticker": "NFA",
+      "decimals": 4
+    },
+    {
+      "policyId": "c08eefe3e8baad600b283a8a3c3ffd082ed9d51aa9af684ac89c6c0a",
+      "subject": "c08eefe3e8baad600b283a8a3c3ffd082ed9d51aa9af684ac89c6c0a4e4641",
+      "description": "Do your own research (DYOR) Not Financial Advice Meme token",
+      "name": "Not Financial Advice",
+      "ticker": "NFA",
+      "decimals": 0
+    },
+    {
+      "policyId": "b0af30edf2c7f11465853821137e0a6ebc395cab71ee39c24127ffb4",
+      "subject": "b0af30edf2c7f11465853821137e0a6ebc395cab71ee39c24127ffb44e465443",
+      "description": "The native token of the NFT Creative ecosystem.",
+      "name": "NFT Creative Coin",
+      "ticker": "NFTC",
+      "decimals": 0
+    },
+    {
+      "policyId": "df1d850c46d6c9d12cbf6181c35db9225a91b77c8a646b7f636f8ae4",
+      "subject": "df1d850c46d6c9d12cbf6181c35db9225a91b77c8a646b7f636f8ae40014df104e494e4a415a",
+      "description": "The utility governance token of the Danketsu ecosystem.",
+      "name": "Danketsu Token",
+      "ticker": "NINJAZ",
+      "decimals": 6
+    },
+    {
+      "policyId": "3baa75a33f58729d1f3a04ed6226f30072b3ca79191fa4894e1f8c73",
+      "subject": "3baa75a33f58729d1f3a04ed6226f30072b3ca79191fa4894e1f8c734e4954524f",
+      "description": "Community driven memecoin supported by AI tools and led by experienced ETH developers in the quest to create the next great memecoin on Cardano",
+      "name": "Nitro",
+      "ticker": "Nitro",
+      "decimals": 0
+    },
+    {
+      "policyId": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc92843489",
+      "subject": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52",
+      "description": "The official NMKR Token",
+      "name": "NMKR",
+      "ticker": "NMKR",
+      "decimals": 6
+    },
+    {
+      "policyId": "857fe2063415829e7f8d9af2481925b169c33aa3b51f087f00cfbe7e",
+      "subject": "857fe2063415829e7f8d9af2481925b169c33aa3b51f087f00cfbe7e4e5043",
+      "description": "Official token of NPC",
+      "name": "NPC Coin",
+      "ticker": "NPC",
+      "decimals": 0
+    },
+    {
+      "policyId": "31d77ea6aed35aff35af568f680e327bfe428e45cdf229d77c3a5920",
+      "subject": "31d77ea6aed35aff35af568f680e327bfe428e45cdf229d77c3a59204e544b4e",
+      "description": "A Token dedicated To ending hunger through blockchain technology.",
+      "name": "Namii Token",
+      "ticker": "NTKN",
+      "decimals": 0
+    },
+    {
+      "policyId": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e99344479",
+      "subject": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
+      "description": "A Global Economy of Decentralized Computing. NuNet lets anyone share and monetize their computing resources at scale and provides globally-distributed, optimized computing power for decentralized networks.",
+      "name": "NuNet Utility Token",
+      "ticker": "NTX",
+      "decimals": 6
+    },
+    {
+      "policyId": "6085a037eb13bb0be011ed283d23ed1bd0bf6fa95b02eccb01cf691d",
+      "subject": "6085a037eb13bb0be011ed283d23ed1bd0bf6fa95b02eccb01cf691d744f435441",
+      "description": "The shift of wealth to the mercantile classes",
+      "name": "tOCTA",
+      "ticker": "OCTA",
+      "decimals": 6
+    },
+    {
+      "policyId": "09d1ce9b8a71eae7c5b72bdaa13b57e65dd97488a45aaacf6a1bb7ff",
+      "subject": "09d1ce9b8a71eae7c5b72bdaa13b57e65dd97488a45aaacf6a1bb7ff4f4d4e",
+      "description": "AltherA family token and In-game currency for all apps within AltherA Metaverce",
+      "name": "OMNIUM",
+      "ticker": "OMN",
+      "decimals": 0
+    },
+    {
+      "policyId": "fdf5bea134b5f11fb10cd793b379f5eeb8f71554a104bd52bdd8f670",
+      "subject": "fdf5bea134b5f11fb10cd793b379f5eeb8f71554a104bd52bdd8f6704f535449",
+      "description": "One Small Town Infinity Token",
+      "name": "OST INFINITY",
+      "ticker": "OSTI",
+      "decimals": 0
+    },
+    {
+      "policyId": "400c0b1999a9ef44530c07b6fd869062e98543bb498112e23531bdc9",
+      "subject": "400c0b1999a9ef44530c07b6fd869062e98543bb498112e23531bdc94f5449434f494e",
+      "description": "The preferred in-game currency of the best games in the world",
+      "name": "OTICOIN",
+      "ticker": "OTC",
+      "decimals": 0
+    },
+    {
+      "policyId": "9352fb70f7445952b845bb9e8921a7129fa0c41df43efcadef5dc7b2",
+      "subject": "9352fb70f7445952b845bb9e8921a7129fa0c41df43efcadef5dc7b26f7669436f696e",
+      "description": "This is a piece of Ovi. Ovi is a great man in a big big world. Owning a piece of the great man is a great responsibility.",
+      "name": "Ovicoin",
+      "ticker": "OVI",
+      "decimals": 6
+    },
+    {
+      "policyId": "4368b0c0c36f8e346fb90f40b1f5e9a360b37035d1e37f32b2d7f558",
+      "subject": "4368b0c0c36f8e346fb90f40b1f5e9a360b37035d1e37f32b2d7f558454747534c59",
+      "description": "Eggsly is a token created on the Cardano blockchain by content creator Tecmeup. The purpose of the token is to support the continuous creation of content related to all things crypto. If the token gets added value to it in the future, the development of a marketplace to showcase art, music, real es",
+      "name": "EGGSLY TOKEN",
+      "ticker": "ovum",
+      "decimals": 0
+    },
+    {
+      "policyId": "8d7cc34c1a44ef419cf1560cbb84e7720ca6c03ab99f8745ab61d19d",
+      "subject": "8d7cc34c1a44ef419cf1560cbb84e7720ca6c03ab99f8745ab61d19d50414e4441",
+      "description": "Token of the path for every soul on Cardano",
+      "name": "PANDA Token",
+      "ticker": "PANDA",
+      "decimals": 0
+    },
+    {
+      "policyId": "2caae8ae6ea9d44d502e17f708af52348a77c177d0d8ba262d02c0a6",
+      "subject": "2caae8ae6ea9d44d502e17f708af52348a77c177d0d8ba262d02c0a65068456e6978",
+      "description": "cardano phoenix",
+      "name": "Phenix",
+      "ticker": "Phe",
+      "decimals": 0
+    },
+    {
+      "policyId": "0c442180dd6163682d8e03b271caefb4944a24412bdd07adafb04ccb",
+      "subject": "0c442180dd6163682d8e03b271caefb4944a24412bdd07adafb04ccb50494e41434f4c414441",
+      "description": "PINACOLADA is the official crypto currency of the Cardabbean Islands Metaverse.",
+      "name": "PinacolADA",
+      "ticker": "Pina",
+      "decimals": 0
+    },
+    {
+      "policyId": "705562e080c01ae6b0c74c2ea32fa7b9b846ad16ef876a596219e2e4",
+      "subject": "705562e080c01ae6b0c74c2ea32fa7b9b846ad16ef876a596219e2e4506c756e646572546f6b656e",
+      "description": "Glorious Plunder",
+      "name": "Plunder Token",
+      "ticker": "PLND",
+      "decimals": 6
+    },
+    {
+      "policyId": "5cb375a72c6249ed7f945e31b57eb6345367407f203b872d9bad55d3",
+      "subject": "5cb375a72c6249ed7f945e31b57eb6345367407f203b872d9bad55d3506f5054657374",
+      "description": "The perfect meme token to split the Cardano community. Send this to all lovers and haters of Pineapple on Pizza. Tip away!",
+      "name": "Pineapple on Pizza",
+      "ticker": "PoPTest",
+      "decimals": 6
+    },
+    {
+      "policyId": "799d93a991d8c2f8c9d7ae1c8e016c4aa4424f211ccc2491937c125a",
+      "subject": "799d93a991d8c2f8c9d7ae1c8e016c4aa4424f211ccc2491937c125a506f5348",
+      "description": "We aim to raise awareness of women on blockchain and motivate a culture of inclusiveness in Cardano. Granting Access to: Events Merch Purchase Staking Rewards Our (Cardano Women) NFT's",
+      "name": "Power of She",
+      "ticker": "POSH",
+      "decimals": 6
+    },
+    {
+      "policyId": "0445383201b56c4acedf544afa57cb88bfbc616c35b57e5b7dbad2d1",
+      "subject": "0445383201b56c4acedf544afa57cb88bfbc616c35b57e5b7dbad2d150524553",
+      "description": "The currency that influences the Syndicate's ecosystem",
+      "name": "Prestige Token",
+      "ticker": "PRES",
+      "decimals": 0
+    },
+    {
+      "policyId": "4e2939572460b319366c16323567b46acea1667506f38fd993e5623f",
+      "subject": "4e2939572460b319366c16323567b46acea1667506f38fd993e5623f5052494d45",
+      "description": "PRIME is the utility token powering the PRIME Tournaments ecosystem. A play and earn layer powered by Cardano.",
+      "name": "PRIME Tournaments",
+      "ticker": "PRIME",
+      "decimals": 0
+    },
+    {
+      "policyId": "bfa9354862e34f2dd417c9068a9367b530d1a704a0f5dc41468c402c",
+      "subject": "bfa9354862e34f2dd417c9068a9367b530d1a704a0f5dc41468c402c50524f434b",
+      "description": "Possum Rocket - A true community coin blasting off in 5, 4, 3, 2, 1, GO!",
+      "name": "Possum Rocket",
+      "ticker": "PROCK",
+      "decimals": 0
+    },
+    {
+      "policyId": "9bb658d912469ebf88cabf1cbef6ca08cf108a688be230f382c5026c",
+      "subject": "9bb658d912469ebf88cabf1cbef6ca08cf108a688be230f382c5026c5073796475636b636f696e",
+      "description": "Cardano meme token inspired by PSYDUCK with its stupidity!",
+      "name": "Psyduckcoin",
+      "ticker": "PSD",
+      "decimals": 0
+    },
+    {
+      "policyId": "e0d785305c6e98df69d429daceb674e555e07c5c81e017c5b18431f1",
+      "subject": "e0d785305c6e98df69d429daceb674e555e07c5c81e017c5b18431f150534b",
+      "description": "Pump the fcking Soneck",
+      "name": "PumpSoneck",
+      "ticker": "PSK",
+      "decimals": 0
+    },
+    {
+      "policyId": "007394e3117755fbb0558b93c54ce3bc6c85770920044ade143dc742",
+      "subject": "007394e3117755fbb0558b93c54ce3bc6c85770920044ade143dc742505443",
+      "description": "Official currency of Pocket Towne",
+      "name": "Pocket Change",
+      "ticker": "PTC",
+      "decimals": 0
+    },
+    {
+      "policyId": "133fac9e153194428eb0919be39837b42b9e977fc7298f3ff1b76ef9",
+      "subject": "133fac9e153194428eb0919be39837b42b9e977fc7298f3ff1b76ef95055444759",
+      "description": "In a world riddled with dogs, lobsters, apes, penguins and llamas, running amok among bulls and bears, Pudgy gives back the Cryptoverse to its lawful rulers: Cats.",
+      "name": "$PUDGY Token",
+      "ticker": "PUDGY",
+      "decimals": 0
+    },
+    {
+      "policyId": "97747aa3c33fdfe4b5faa7bb8b4534932c6d980cb13c14c5a547e7ca",
+      "subject": "97747aa3c33fdfe4b5faa7bb8b4534932c6d980cb13c14c5a547e7ca70757272414441",
+      "description": "Minswap Liquidity Boostrapping tokens that can be redeemed for LP tokens after price discovery",
+      "name": "purrADA",
+      "ticker": "purrADA",
+      "decimals": 6
+    },
+    {
+      "policyId": "42a399fb90d448e3afa049df0a5114b9cc85cc52445f6ce6d91b5efe",
+      "subject": "42a399fb90d448e3afa049df0a5114b9cc85cc52445f6ce6d91b5efe7075737379",
+      "description": "Congrats on getting some !",
+      "name": "PUSSY",
+      "ticker": "PUSSY",
+      "decimals": 0
+    },
+    {
+      "policyId": "c94ba9d7f91040d93a305a2c078838b870f4a70a06f41dabce952f47",
+      "subject": "c94ba9d7f91040d93a305a2c078838b870f4a70a06f41dabce952f4770757572727479",
+      "description": "Fungible token for Puurrty Cat Society",
+      "name": "puurrty",
+      "ticker": "puurrty",
+      "decimals": 6
+    },
+    {
+      "policyId": "b869065e00fdb58f0f692377c96965d4a0ab6ecc1b1ee6ed7b14fb1b",
+      "subject": "b869065e00fdb58f0f692377c96965d4a0ab6ecc1b1ee6ed7b14fb1b505754",
+      "description": "PIGGY Wallet, is a secure, decentralized Cardano wallet that supports and manages Cardano Native Tokens and NFTs",
+      "name": "Piggy Wallet",
+      "ticker": "PWT",
+      "decimals": 0
+    },
+    {
+      "policyId": "6df63e2fdde8b2c3b3396265b0cc824aa4fb999396b1c154280f6b0c",
+      "subject": "6df63e2fdde8b2c3b3396265b0cc824aa4fb999396b1c154280f6b0c",
+      "description": "qDJED is an interest bearing token minted upon deposit into the Liqwid DJED market and burned when redeemed. The underlying DJED is loaned out to borrowers through the Liqwid protocol.",
+      "name": "qDJED",
+      "ticker": "qDJED",
+      "decimals": 6
+    },
+    {
+      "policyId": "d15c36d6dec655677acb3318294f116ce01d8d9def3cc54cdd78909b",
+      "subject": "d15c36d6dec655677acb3318294f116ce01d8d9def3cc54cdd78909b",
+      "description": "qiUSD is an interest bearing token minted upon deposit into the Liqwid iUSD market and burned when redeemed. The underlying iUSD is loaned out to borrowers through the Liqwid protocol.",
+      "name": "qiUSD",
+      "ticker": "qiUSD",
+      "decimals": 6
+    },
+    {
+      "policyId": "e1ff3557106fe13042ba0f772af6a2e43903ccfaaf03295048882c93",
+      "subject": "e1ff3557106fe13042ba0f772af6a2e43903ccfaaf03295048882c93",
+      "description": "qSHEN is an interest bearing token minted upon deposit into the Liqwid SHEN market and burned when redeemed. The underlying SHEN is loaned out to borrowers through the Liqwid protocol.",
+      "name": "qSHEN",
+      "ticker": "qSHEN",
+      "decimals": 6
+    },
+    {
+      "policyId": "5148e9f863306ecee573e1aacb29c64e66d2d64f49e704956dc3ce73",
+      "subject": "5148e9f863306ecee573e1aacb29c64e66d2d64f49e704956dc3ce73726132636f696e",
+      "description": "Red alert coin for game",
+      "name": "Red Alert Coin",
+      "ticker": "RA2",
+      "decimals": 6
+    },
+    {
+      "policyId": "b09c5082bcdb922bf9e7c2f03e51493dd3153fee2c941e5dc4528686",
+      "subject": "b09c5082bcdb922bf9e7c2f03e51493dd3153fee2c941e5dc45286865241474e41524f4b",
+      "description": "A Cardano native token honoring Ragnarok - The Great Battle",
+      "name": "Ragnarok",
+      "ticker": "RAGNK",
+      "decimals": 0
+    },
+    {
+      "policyId": "283f57a2d334cec622e8a87cfee16d3551a0c1d285c7aee27c242eee",
+      "subject": "283f57a2d334cec622e8a87cfee16d3551a0c1d285c7aee27c242eee5241494e",
+      "description": "Governance and rewards for Refocus Africa Investors Network.",
+      "name": "reFocus Africa Investors Network",
+      "ticker": "RAIN",
+      "decimals": 0
+    },
+    {
+      "policyId": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b602",
+      "subject": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b60252414b4552",
+      "description": "MarketRaker is a cutting-edge trading tool designed to assist traders and investors in analyzing market trends and making informed investment decisions.",
+      "name": "MarketRaker",
+      "ticker": "RAKER",
+      "decimals": 0
+    },
+    {
+      "policyId": "2738aa32c636f2285df8360b2e84e52e143c752a3ac8f807120e65e0",
+      "subject": "2738aa32c636f2285df8360b2e84e52e143c752a3ac8f807120e65e0524154",
+      "description": "The official token of Rats DAO.",
+      "name": "RAT",
+      "ticker": "RAT",
+      "decimals": 0
+    },
+    {
+      "policyId": "14a3455f71c435a04ea1fdb50a3ef4c1cab0e79fb1565627ac66a575",
+      "subject": "14a3455f71c435a04ea1fdb50a3ef4c1cab0e79fb1565627ac66a57552415645",
+      "description": "Utility token that will power Ravendex ecosystem",
+      "name": "Ravendex",
+      "ticker": "RAVE",
+      "decimals": 0
+    },
+    {
+      "policyId": "45711a0c7f67ac1fd8452977e4af35d7d475f96d6bd9070561649128",
+      "subject": "45711a0c7f67ac1fd8452977e4af35d7d475f96d6bd907056164912852444d50",
+      "description": "A social credit token to solve systemic vulnerability.",
+      "name": "Redemptv Coin",
+      "ticker": "RDMP",
+      "decimals": 2
+    },
+    {
+      "policyId": "482ea53a681f0f5dbc84696c62a7c5906b6890906eec3bb89095d31f",
+      "subject": "482ea53a681f0f5dbc84696c62a7c5906b6890906eec3bb89095d31f72656470616e6461",
+      "description": "Cardano Red Panda Meme Token",
+      "name": "redpanda",
+      "ticker": "redpanda",
+      "decimals": 6
+    },
+    {
+      "policyId": "1a49530b152d1e090a0242ecfe79a5b6b7d28e57f0d9d1b64f42eba4",
+      "subject": "1a49530b152d1e090a0242ecfe79a5b6b7d28e57f0d9d1b64f42eba452454954",
+      "description": "A protocol to unlock value and trade verified real estate assets",
+      "name": "Real estate investment token",
+      "ticker": "REIT",
+      "decimals": 6
+    },
+    {
+      "policyId": "b7c783f6304eddbdf8f0dece4715d63cb9f453be89d97c8fba155d57",
+      "subject": "b7c783f6304eddbdf8f0dece4715d63cb9f453be89d97c8fba155d5752455349",
+      "description": "RESI Token from Living Greens Urban Farm",
+      "name": "RESI",
+      "ticker": "RESI",
+      "decimals": 6
+    },
+    {
+      "policyId": "c45cbb33572ab2e9ca296bdf426e0a97187a00ecc8287fa1c3ca2e5d",
+      "subject": "c45cbb33572ab2e9ca296bdf426e0a97187a00ecc8287fa1c3ca2e5d7261746b696e67",
+      "description": "The RatKing Token - 1RATKING=1RATKING",
+      "name": "RatKing",
+      "ticker": "RK",
+      "decimals": 0
+    },
+    {
+      "policyId": "b201928d6bdb21c2e39205a92e226653d6002b949eaaacde3d986c2f",
+      "subject": "b201928d6bdb21c2e39205a92e226653d6002b949eaaacde3d986c2f524f4e",
+      "description": "“Never half-ass two things. Whole-ass one thing.” - Ron",
+      "name": "Ron",
+      "ticker": "RON",
+      "decimals": 0
+    },
+    {
+      "policyId": "3682715f97086e72ff37a7e6759a5ff0b44c98296afc2b407debe52b",
+      "subject": "3682715f97086e72ff37a7e6759a5ff0b44c98296afc2b407debe52b524f554e44",
+      "description": "Recycle your Tokens and NFTs",
+      "name": "ROUNDTRIP",
+      "ticker": "ROUND",
+      "decimals": 6
+    },
+    {
+      "policyId": "68f514c3504baaa0f38ba3211de163ef6e90b64acecc1d3050224a3b",
+      "subject": "68f514c3504baaa0f38ba3211de163ef6e90b64acecc1d3050224a3b525442",
+      "description": "The Official RTB Token",
+      "name": "RTB",
+      "ticker": "RTB",
+      "decimals": 0
+    },
+    {
+      "policyId": "7bf18ff8bbc7cd4adbf4a31828fc3ada26fe40f52de27394ec36b03e",
+      "subject": "7bf18ff8bbc7cd4adbf4a31828fc3ada26fe40f52de27394ec36b03e4f544b2052756d",
+      "description": "The utility token for the Order of the Kraken, a Pirate themed NFT Project on the Cardano blockchain",
+      "name": "OTK Rum Token",
+      "ticker": "RUM",
+      "decimals": 3
+    },
+    {
+      "policyId": "cd5b9dd91319edbb19477ad00cbef673a221e70a17ef043951fc6786",
+      "subject": "cd5b9dd91319edbb19477ad00cbef673a221e70a17ef043951fc678652656465656d61626c65",
+      "description": "The fiat-backed stablecoin issued by Shareslake. USD payments for Cardano and real life.",
+      "name": "Redeemable USD",
+      "ticker": "RUSD",
+      "decimals": 4
+    },
+    {
+      "policyId": "07f019ce45fb638353258bda4316ce5eb3d0f76a3fb739c451740849",
+      "subject": "07f019ce45fb638353258bda4316ce5eb3d0f76a3fb739c45174084953414c5459",
+      "description": "The $SALTY token is the core utility token of the Salty Seagulls Society. It provides for governance and additional utility as the project grows.",
+      "name": "Salty Seagulls Society Token",
+      "ticker": "SALTY",
+      "decimals": 6
+    },
+    {
+      "policyId": "eb2fb0975dbd8d4b439eef8f252dbbf7dea998e58186b6a74b5431b3",
+      "subject": "eb2fb0975dbd8d4b439eef8f252dbbf7dea998e58186b6a74b5431b353414c5a59",
+      "description": "Salzy The Sly Salamander",
+      "name": "Salzy Token",
+      "ticker": "SALZY",
+      "decimals": 0
+    },
+    {
+      "policyId": "b8c7dd0050cce0527888e7d1727bc6c656b6203a9654688ace6dfd6d",
+      "subject": "b8c7dd0050cce0527888e7d1727bc6c656b6203a9654688ace6dfd6d53414d55524149",
+      "description": "CoinsDojo ecosystem gaming & utility token.",
+      "name": "SAMURAI",
+      "ticker": "SAMURAI",
+      "decimals": 0
+    },
+    {
+      "policyId": "f06eb860aea6e5ae9d5118cae46f90785abff0c1d3c564feda655eff",
+      "subject": "f06eb860aea6e5ae9d5118cae46f90785abff0c1d3c564feda655eff53414e4943",
+      "description": "SANIC THE HEGEHOG - DO YO EVEN FST?",
+      "name": "SANIC COIN",
+      "ticker": "SANIC",
+      "decimals": 0
+    },
+    {
+      "policyId": "9e246a9fdafdf6c4f63aecc559ecf93d260acab623cfe8b001dcf375",
+      "subject": "9e246a9fdafdf6c4f63aecc559ecf93d260acab623cfe8b001dcf37553415453",
+      "description": "Satoshi Token is a memes token build on Cardano Blockchain. Only 21 million supply in total as Bitcoin",
+      "name": "Satoshi Token",
+      "ticker": "SATS",
+      "decimals": 0
+    },
+    {
+      "policyId": "3acbfba3d154f2a63ff76e1d10ff8aa256021093aa88082c0d911c30",
+      "subject": "3acbfba3d154f2a63ff76e1d10ff8aa256021093aa88082c0d911c3053636f7065",
+      "description": "Official GemsScope token",
+      "name": "GemsScope",
+      "ticker": "Scope",
+      "decimals": 3
+    },
+    {
+      "policyId": "6631bfb865442ddbb39feb2e3906827a552a128e3707b1434315266b",
+      "subject": "6631bfb865442ddbb39feb2e3906827a552a128e3707b1434315266b53454c",
+      "description": "Selena is a crypto-currency based on Cardano Blockchain, it is the Utility Token for the Social Media Platform \"CoinCrowd Network\". Which is a network for the people and owned by the people, and most important we never censor your freedom.",
+      "name": "Selena",
+      "ticker": "SEL",
+      "decimals": 0
+    },
+    {
+      "policyId": "88086a1511fb735242ab3e020a985939974031b35a6c86d3e73d52aa",
+      "subject": "88086a1511fb735242ab3e020a985939974031b35a6c86d3e73d52aa536e6f77466c616b65",
+      "description": "Snow Flake",
+      "name": "Snow Flake",
+      "ticker": "SFT",
+      "decimals": 6
+    },
+    {
+      "policyId": "6e3af9667763e915c9b3a901d3092625d515c2ad6d575eac92582aa8",
+      "subject": "6e3af9667763e915c9b3a901d3092625d515c2ad6d575eac92582aa8d2c8d7d47fb4046c68567e0f29bf0dce4e0a083cf4ce522ed741127dafa2ac59",
+      "description": "A token that represents a share of the concentrated SHEN/ADA pairing concentrated liquidity pool with a range of 0.1 and 10 on the MuesliSwap Hybrid DEX.",
+      "name": "MuesliSwap SHEN/ADA cLP token",
+      "ticker": "SHEN/ADA",
+      "decimals": 0
+    },
+    {
+      "policyId": "f84eeef0f241e3a5e3eaaa2c16c99f91fd683c37bbb0dffc21c3fada",
+      "subject": "f84eeef0f241e3a5e3eaaa2c16c99f91fd683c37bbb0dffc21c3fada",
+      "description": "Utility token for Liqwid SHEN market",
+      "name": "Liqwid SHEN Action",
+      "ticker": "SHENAXN",
+      "decimals": 0
+    },
+    {
+      "policyId": "98cccc642a74eeb1fe7a22f43a814068b54f9f9afa583a73b74e36ba",
+      "subject": "98cccc642a74eeb1fe7a22f43a814068b54f9f9afa583a73b74e36ba",
+      "description": "Utility token for Liqwid SHEN market",
+      "name": "Liqwid SHEN Borrow",
+      "ticker": "SHENBOR",
+      "decimals": 0
+    },
+    {
+      "policyId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9",
+      "subject": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9736869747479",
+      "description": "The sender of this token is Shitty",
+      "name": "Shitty",
+      "ticker": "Shity",
+      "decimals": 0
+    },
+    {
+      "policyId": "d8d7299eee3283564e590052151f7f0e72bcc2d2eb977f95c5fd5710",
+      "subject": "d8d7299eee3283564e590052151f7f0e72bcc2d2eb977f95c5fd5710534b554e4b",
+      "description": "A Cardano native token glorifying the skunk",
+      "name": "Skunk",
+      "ticker": "SKUNK",
+      "decimals": 0
+    },
+    {
+      "policyId": "873e62c27604ec4ae6bfa0bb912bd45a207d2b0f135860bc90bb2836",
+      "subject": "873e62c27604ec4ae6bfa0bb912bd45a207d2b0f135860bc90bb2836534b59",
+      "description": "SKY Coin is a Cardano based token that will turn trash into cash. Give us your plastic and we’ll give you our crypto for free. We’re building tiny homes from recycled polymers to end homelessness and clean up the environment. Recycling | Crypto | Mutualism",
+      "name": "SKY Coin",
+      "ticker": "SKY",
+      "decimals": 0
+    },
+    {
+      "policyId": "6c58e1568def6d2666070920ffaaeafa7c04f9538bc4fb33e2df833d",
+      "subject": "6c58e1568def6d2666070920ffaaeafa7c04f9538bc4fb33e2df833d536c61796572",
+      "description": "Slayer Fan Coin",
+      "name": "Slayer",
+      "ticker": "SLAYR",
+      "decimals": 0
+    },
+    {
+      "policyId": "f67a18b6abf4cdd1dc67c9534b9aace9bb4298002ddcfb3ed79d56fc",
+      "subject": "f67a18b6abf4cdd1dc67c9534b9aace9bb4298002ddcfb3ed79d56fc536869726c6579206c6f20736f6e67",
+      "description": "R I P Shirley lo you will be remembered on the blockchain forever",
+      "name": "Shirley lo song",
+      "ticker": "SloS",
+      "decimals": 0
+    },
+    {
+      "policyId": "249b7c4b9522b11489b41df89c8ce2244dea99d33abff8e8a1a86246",
+      "subject": "249b7c4b9522b11489b41df89c8ce2244dea99d33abff8e8a1a86246536c6f7474657279",
+      "description": "Slottery token is used for interacting with slottery.finance services",
+      "name": "Slottery",
+      "ticker": "Slottery",
+      "decimals": 0
+    },
+    {
+      "policyId": "23690795536ccf407ed6eeac57db98db9668b3a026991fb516ecd7ef",
+      "subject": "23690795536ccf407ed6eeac57db98db9668b3a026991fb516ecd7ef0014df10534d4f4b4553",
+      "description": "SMOKES drive the ADA Inmates prison economy and inmates value nothing more than a good smoke",
+      "name": "Smokes Token",
+      "ticker": "SMOKES",
+      "decimals": 0
+    },
+    {
+      "policyId": "e3301855427bb1a065c64c2a9e8a9c6c7c1d0633d6b929bd73db1b9e",
+      "subject": "e3301855427bb1a065c64c2a9e8a9c6c7c1d0633d6b929bd73db1b9e534f43",
+      "description": "Officially non official Solana Classic on Cardano",
+      "name": "Solana Cash",
+      "ticker": "SOC",
+      "decimals": 0
+    },
+    {
+      "policyId": "6d37fc977f8fa1d657b6d9db1a17e9ed69dd332165e5efa3f8a568f1",
+      "subject": "6d37fc977f8fa1d657b6d9db1a17e9ed69dd332165e5efa3f8a568f1534f4c",
+      "description": "Officially non official Solana on Cardano",
+      "name": "Solana",
+      "ticker": "SOL",
+      "decimals": 0
+    },
+    {
+      "policyId": "d894897411707efa755a76deb66d26dfd50593f2e70863e1661e98a0",
+      "subject": "d894897411707efa755a76deb66d26dfd50593f2e70863e1661e98a07370616365636f696e73",
+      "description": "the OG Cardano community token - whatever you do, your did it!",
+      "name": "spacecoins",
+      "ticker": "SPACE",
+      "decimals": 0
+    },
+    {
+      "policyId": "8a60b9a2aeb22c0f0a2a70cac8cd16dd99dc0542a31f3bc075551be3",
+      "subject": "8a60b9a2aeb22c0f0a2a70cac8cd16dd99dc0542a31f3bc075551be35354414441",
+      "description": "Decentralized Staking Protocol",
+      "name": "StakeADA",
+      "ticker": "STADA",
+      "decimals": 6
+    },
+    {
+      "policyId": "6b5e7bd6daa2b59e7adf7fabc2611107d394272d117dafa9a46c7648",
+      "subject": "6b5e7bd6daa2b59e7adf7fabc2611107d394272d117dafa9a46c764853746172",
+      "description": "Star is the utility token for Starboundpad IDO Launch Platform",
+      "name": "Star",
+      "ticker": "STAR",
+      "decimals": 0
+    },
+    {
+      "policyId": "141de94d882e6426622898984d8861c4a69e0da5df8c930177926dd9",
+      "subject": "141de94d882e6426622898984d8861c4a69e0da5df8c930177926dd9534556",
+      "description": "The Stars have an affect on us. The macro level of nature.",
+      "name": "Stars Eye View",
+      "ticker": "STARS",
+      "decimals": 0
+    },
+    {
+      "policyId": "a8f554642b6deda33188981e4b2e7b4444259b77f86dc7e30f7489b2",
+      "subject": "a8f554642b6deda33188981e4b2e7b4444259b77f86dc7e30f7489b253544158",
+      "description": "The official token of Studio-Stax where we publish digital art (NFTs, digital prints, digital stickers, other media) along with physical products to showcase our art.",
+      "name": "Studio-Stax",
+      "ticker": "STAX",
+      "decimals": 0
+    },
+    {
+      "policyId": "f6fc004eb58f79965e2e2248793cf3cb38240d505a750d17b400a578",
+      "subject": "f6fc004eb58f79965e2e2248793cf3cb38240d505a750d17b400a578535445414b",
+      "description": "PROOF OF STEAK\r\nCardano' tastiest coin!",
+      "name": "STEAK COIN",
+      "ticker": "STEAK",
+      "decimals": 5
+    },
+    {
+      "policyId": "9f0e526add5f7661ee81076254ae430c7de5c11bf7830ce5e9503fdc",
+      "subject": "9f0e526add5f7661ee81076254ae430c7de5c11bf7830ce5e9503fdc53544b53",
+      "description": "token powers the CardaStacks economy",
+      "name": "CardaStacks Token",
+      "ticker": "STKS",
+      "decimals": 0
+    },
+    {
+      "policyId": "74587ba5b0dede04ffa25bd31510d04a92c0589592d4fda265dfd1bb",
+      "subject": "74587ba5b0dede04ffa25bd31510d04a92c0589592d4fda265dfd1bb53544f4e4b",
+      "description": "Official STONK token",
+      "name": "STONK Coin",
+      "ticker": "STONK",
+      "decimals": 0
+    },
+    {
+      "policyId": "718c383a22b0239d034a95e750fd09a5930bddcffc24bf5c566b1cf1",
+      "subject": "718c383a22b0239d034a95e750fd09a5930bddcffc24bf5c566b1cf153554d4d4f4e",
+      "description": "The Summon DAO governance token",
+      "name": "SUMMON",
+      "ticker": "SUMMON",
+      "decimals": 6
+    },
+    {
+      "policyId": "fae630fc793b5bb14735616b6f28cfae6d81a82ec05ecca98da3aedc",
+      "subject": "fae630fc793b5bb14735616b6f28cfae6d81a82ec05ecca98da3aedc544144",
+      "description": "The official monetary currency of The Apes",
+      "name": "TAD",
+      "ticker": "TAD",
+      "decimals": 0
+    },
+    {
+      "policyId": "efeb309a02323634a05993abfadc8c9cccd3ac8631ad5ee0befd81d5",
+      "subject": "efeb309a02323634a05993abfadc8c9cccd3ac8631ad5ee0befd81d55465786965722041636f75737469717565",
+      "description": "The Texier Acoustique company, has for goal to build and sell the best musical instruments possible. \n\nThe company is based in France\n\nThe policy will stay open in case of hyper-deflation",
+      "name": "Texier Acoustique Token",
+      "ticker": "TAT",
+      "decimals": 2
+    },
+    {
+      "policyId": "38f041d27b16f7a73e9609a75e5b00b88cc3f81a5af810f09e737ed9",
+      "subject": "38f041d27b16f7a73e9609a75e5b00b88cc3f81a5af810f09e737ed954415849",
+      "description": "A Cardano native taxi token",
+      "name": "Taxi",
+      "ticker": "TAXI",
+      "decimals": 0
+    },
+    {
+      "policyId": "c6e65ba7878b2f8ea0ad39287d3e2fd256dc5c4160fc19bdf4c4d87e",
+      "subject": "c6e65ba7878b2f8ea0ad39287d3e2fd256dc5c4160fc19bdf4c4d87e7447454e53",
+      "description": "Test token for Genius Yield",
+      "name": "Genius Yield Test Token",
+      "ticker": "tGENS",
+      "decimals": 6
+    },
+    {
+      "policyId": "338d751bec942c5781f8ec5862eb3c235a3fb4cd69ed2283d9e4ce31",
+      "subject": "338d751bec942c5781f8ec5862eb3c235a3fb4cd69ed2283d9e4ce315468654D69676874795368656570",
+      "description": "The Mighty Sheep It Is",
+      "name": "TheMightySheep",
+      "ticker": "TMS",
+      "decimals": 6
+    },
+    {
+      "policyId": "c9c1530af5f944bf3d6385c3df611506fabe07f9c667b07607c8a560",
+      "subject": "c9c1530af5f944bf3d6385c3df611506fabe07f9c667b07607c8a5605468654d6565745570",
+      "description": "Episode 2 of the Gnomies cartoon on YouTube",
+      "name": "TheMeetUpEp2",
+      "ticker": "TMUE2",
+      "decimals": 0
+    },
+    {
+      "policyId": "a2c4a2ba9a4298af9200d11a99ff3615d3750acaad6e8625fe86fbc5",
+      "subject": "a2c4a2ba9a4298af9200d11a99ff3615d3750acaad6e8625fe86fbc5746f61646b656e",
+      "description": "Official Frog Factory token",
+      "name": "Frog Factory Token",
+      "ticker": "toadken",
+      "decimals": 0
+    },
+    {
+      "policyId": "798d5d1aff84174779a57908058a6283b09fc8b6bfccdbee2115b51e",
+      "subject": "798d5d1aff84174779a57908058a6283b09fc8b6bfccdbee2115b51e544f454d",
+      "description": "The first emerald-backed digital token in Brazil. Also backed by other precious stones and ores, allowing small investors to operate in this market.",
+      "name": "Emerald Token",
+      "ticker": "TOEM",
+      "decimals": 6
+    },
+    {
+      "policyId": "4247d5091db82330100904963ab8d0850976c80d3f1b927e052e07bd",
+      "subject": "4247d5091db82330100904963ab8d0850976c80d3f1b927e052e07bd546f6b68756e",
+      "description": "A closed loop Utility token for Tokhun.io NFT & FT marketplace & minting platform.",
+      "name": "Tokhun.io Token",
+      "ticker": "Tokhun",
+      "decimals": 0
+    },
+    {
+      "policyId": "1fa80aef5db4757840026a4922384a7fddff7b635c0beb0f43c5069e",
+      "subject": "1fa80aef5db4757840026a4922384a7fddff7b635c0beb0f43c5069e544f4b494f",
+      "description": "For all people who love Mt. Fuji",
+      "name": "Tokio Cripto",
+      "ticker": "TOKIO",
+      "decimals": 8
+    },
+    {
+      "policyId": "f8f5c9e57f64b5bf3efe0d38002887066555928348d43d5d6e14acf2",
+      "subject": "f8f5c9e57f64b5bf3efe0d38002887066555928348d43d5d6e14acf25452494e4b",
+      "description": "So shiny...",
+      "name": "TRINK",
+      "ticker": "TRINK",
+      "decimals": 0
+    },
+    {
+      "policyId": "52162581184a457fad70470161179c5766f00237d4b67e0f1df1b4e6",
+      "subject": "52162581184a457fad70470161179c5766f00237d4b67e0f1df1b4e65452544c",
+      "description": "$Tortol",
+      "name": "Tortol",
+      "ticker": "TRTL",
+      "decimals": 0
+    },
+    {
+      "policyId": "300e6a078a499e15d586d4735977098b77564e4b30f47352ef399d36",
+      "subject": "300e6a078a499e15d586d4735977098b77564e4b30f47352ef399d3654574954",
+      "description": "The perfect Meme coin for Twits and bird lovers alike",
+      "name": "Twitty",
+      "ticker": "TWIT",
+      "decimals": 0
+    },
+    {
+      "policyId": "95a15fafc24be11478735df6fa4eaba6e6319c27f24ced13f39bea44",
+      "subject": "95a15fafc24be11478735df6fa4eaba6e6319c27f24ced13f39bea4455474c59",
+      "description": "The official token of Ugly Bros.",
+      "name": "UGLY",
+      "ticker": "UGLY",
+      "decimals": 6
+    },
+    {
+      "policyId": "6d7b5758f6f1808513ad28ff9aa792b5abcd2dddb36d60d3c7d574d8",
+      "subject": "6d7b5758f6f1808513ad28ff9aa792b5abcd2dddb36d60d3c7d574d85645474153",
+      "description": "Viva Las Vegas",
+      "name": "Vegas",
+      "ticker": "VEGAS",
+      "decimals": 0
+    },
+    {
+      "policyId": "972726fa74995595833ac939dc213097c381459f79c2b007f6efde1f",
+      "subject": "972726fa74995595833ac939dc213097c381459f79c2b007f6efde1f566572746578",
+      "description": "Play-to-earn open-world Metaverse",
+      "name": "Vertex Hub",
+      "ticker": "Vertx",
+      "decimals": 0
+    },
+    {
+      "policyId": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f",
+      "subject": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f56594649",
+      "description": "Governance token for the VyFinance ecosystem",
+      "name": "VYFI",
+      "ticker": "VYFI",
+      "decimals": 6
+    },
+    {
+      "policyId": "e74a17d5d89aa49533e953efb9d8e5a7931bd23517154a4a014dfc4c",
+      "subject": "e74a17d5d89aa49533e953efb9d8e5a7931bd23517154a4a014dfc4c5741474d49",
+      "description": "We are going to make it",
+      "name": "WAGMI",
+      "ticker": "WAGMI",
+      "decimals": 0
+    },
+    {
+      "policyId": "11afc5432d9ef78e12d5ecf7ccc52de3b5d16f5d2a4a22fa566ddf68",
+      "subject": "11afc5432d9ef78e12d5ecf7ccc52de3b5d16f5d2a4a22fa566ddf68574152",
+      "description": "The battle within",
+      "name": "War",
+      "ticker": "WAR",
+      "decimals": 0
+    },
+    {
+      "policyId": "986f0548a2fd9758bc2a38d698041debe89568749e20ab9b75a7f4b7",
+      "subject": "986f0548a2fd9758bc2a38d698041debe89568749e20ab9b75a7f4b757425443",
+      "description": "WBTC is 1:1 pegged by canonical WBTC in Multichain protocol, which is the ultimate Router for web3,",
+      "name": "WBTC bridged by Multichain",
+      "ticker": "WBTC",
+      "decimals": 6
+    },
+    {
+      "policyId": "a3914cb7a564d010c7b67774ac8720a8ece3a758279b51d8a1c05cc5",
+      "subject": "a3914cb7a564d010c7b67774ac8720a8ece3a758279b51d8a1c05cc55745444e4553444159",
+      "description": "It is giveaways, raffles and Wednesday my Dudes",
+      "name": "Wednesday",
+      "ticker": "WDAY",
+      "decimals": 0
+    },
+    {
+      "policyId": "e793b77c7d5cdfb6feaef8915d4e7d26e479ac2d159e62b4a35611e7",
+      "subject": "e793b77c7d5cdfb6feaef8915d4e7d26e479ac2d159e62b4a35611e7576f726c6400546f6b656e",
+      "description": "World Token for Everyone",
+      "name": "World Token",
+      "ticker": "WDT",
+      "decimals": 0
+    },
+    {
+      "policyId": "91fbce324827fcb04240e95772277225997fde8af6bfebd16b3f381c",
+      "subject": "91fbce324827fcb04240e95772277225997fde8af6bfebd16b3f381c46726f67436f696e",
+      "description": "FrogCoin [FROG] Official Wrapped Token, Save the Frogs!",
+      "name": "FrogCoin",
+      "ticker": "wFROG",
+      "decimals": 0
+    },
+    {
+      "policyId": "614ee71f2e7aef6b1d51e39caf6a876fede0735a1a292d962f24cc69",
+      "subject": "614ee71f2e7aef6b1d51e39caf6a876fede0735a1a292d962f24cc69776861696c",
+      "description": "There is a new whail for you.",
+      "name": "Whailing List",
+      "ticker": "WHAIL",
+      "decimals": 0
+    },
+    {
+      "policyId": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e",
+      "subject": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e",
+      "description": "WMT is a utility token created to connect the unconnected and bank the unbanked. With nearly 4 billion people left offline, digital exclusion is a significant problem. Together with Input Output, World Mobile will deliver a revolutionary, scalable network in Africa and beyond. Let’s kickstart the sh",
+      "name": "World Mobile Token",
+      "ticker": "WMT",
+      "decimals": 6
+    },
+    {
+      "policyId": "a1b284d7218dd63772c67ca26ab73721a196b404929cddef595f9967",
+      "subject": "a1b284d7218dd63772c67ca26ab73721a196b404929cddef595f9967574f4a414b424c5545",
+      "description": "Wojak Blue is a memecoin inspired by the iconic Wojak meme.",
+      "name": "Wojak Blue",
+      "ticker": "WOJAKBLUE",
+      "decimals": 0
+    },
+    {
+      "policyId": "efa634c50eae3463d0fea52bb1dd3d31c43dda959a057b62af9405bc",
+      "subject": "efa634c50eae3463d0fea52bb1dd3d31c43dda959a057b62af9405bc574f4f46",
+      "description": "Woof Woof",
+      "name": "WOOF",
+      "ticker": "WOOF",
+      "decimals": 0
+    },
+    {
+      "policyId": "a8512101cb1163cc218e616bb4d4070349a1c9395313f1323cc58363",
+      "subject": "a8512101cb1163cc218e616bb4d4070349a1c9395313f1323cc58363575254",
+      "description": "WingRiders is a decentralized exchange protocol on Cardano. WRT provides access to dao voting and other DEX related functions.",
+      "name": "WingRiders",
+      "ticker": "WRT",
+      "decimals": 6
+    },
+    {
+      "policyId": "4ffaa4ef3217df37c4995bb96066af4cb68dfcc66b9f2a10e0c333b9",
+      "subject": "4ffaa4ef3217df37c4995bb96066af4cb68dfcc66b9f2a10e0c333b95779726d73746f6e65",
+      "description": "The official utility token of Tavern Squad",
+      "name": "Wyrmstone",
+      "ticker": "WYRM",
+      "decimals": 6
+    },
+    {
+      "policyId": "360152fd7de262466da84d7c1ef564e8732e3ba9c4426751a1b5e242",
+      "subject": "360152fd7de262466da84d7c1ef564e8732e3ba9c4426751a1b5e24258474145",
+      "description": "SapSalGae is Economic Meme Token.",
+      "name": "SapSalGae",
+      "ticker": "XGAE",
+      "decimals": 0
+    },
+    {
+      "policyId": "b316f8f668aca7359ecc6073475c0c8106239bf87e05a3a1bd569764",
+      "subject": "b316f8f668aca7359ecc6073475c0c8106239bf87e05a3a1bd5697647856594649",
+      "description": "Token that represents proportional ownership in the VyFinance BAR",
+      "name": "xVYFI",
+      "ticker": "xVYFI",
+      "decimals": 6
+    },
+    {
+      "policyId": "1cacc3d9ae470d48b11d70b1c2f6450b2c27bbeffeb38e58ffedc907",
+      "subject": "1cacc3d9ae470d48b11d70b1c2f6450b2c27bbeffeb38e58ffedc907414743",
+      "description": "this token no longer in use",
+      "name": "obsolete",
+      "ticker": "XXX",
+      "decimals": 6
+    },
+    {
+      "policyId": "94cb6dc96bee2f38a778c765c154465e5a7afd0f7dd93df192316d6f",
+      "subject": "94cb6dc96bee2f38a778c765c154465e5a7afd0f7dd93df192316d6f59444e49",
+      "description": "locotorp scitehtnys dezilartneced na si ogidnI",
+      "name": "nekoT OAD ogidnI",
+      "ticker": "YDNI",
+      "decimals": 6
+    },
+    {
+      "policyId": "f56425c29463565809ecc129dc53d895c8a80f3019e010bf3f5390b7",
+      "subject": "f56425c29463565809ecc129dc53d895c8a80f3019e010bf3f5390b759656e6e656e6761546f6b656e",
+      "description": "Yennenga Tokens",
+      "name": "YennengaToken",
+      "ticker": "yeng",
+      "decimals": 6
+    },
+    {
+      "policyId": "96abe9a17b65c2133ed7e11864338e965efc418c0961ceecfac16172",
+      "subject": "96abe9a17b65c2133ed7e11864338e965efc418c0961ceecfac1617259455449",
+      "description": "The official token of The Smooth Yeti Mountain Club",
+      "name": "YETI",
+      "ticker": "YETI",
+      "decimals": 6
+    },
+    {
+      "policyId": "f13c18dee5d27150e19a206ed6fba68f98e5177fd003e81a7d1ab8ea",
+      "subject": "f13c18dee5d27150e19a206ed6fba68f98e5177fd003e81a7d1ab8ea446f6f446f6f546f6b656e",
+      "description": "Purely Shitcoin fully public supply of 2,500,000",
+      "name": "DooDoo Token",
+      "ticker": "YUCK",
+      "decimals": 2
+    },
+    {
+      "policyId": "af3d70acf4bd5b3abb319a7d75c89fb3e56eafcdd46b2e9b57a2557f",
+      "subject": "af3d70acf4bd5b3abb319a7d75c89fb3e56eafcdd46b2e9b57a2557f9719aefffa6a24f85693819c0c5fe32429d3333d93ecb041456da2ee689c7140",
+      "description": "A token that represents a share of the YUMMI/ADA pairing liquidity pool on the MuesliSwap Hybrid DEX.",
+      "name": "MuesliSwap YUMMI/ADA LP token",
+      "ticker": "YUMMI/ADA",
+      "decimals": 0
+    },
+    {
+      "policyId": "697f3d5a7d245f0c739f68924f4786c2cee513024b2b8d5be68eaacc",
+      "subject": "697f3d5a7d245f0c739f68924f4786c2cee513024b2b8d5be68eaacc5a616c6769726973",
+      "description": "Lithuania coin.",
+      "name": "Zalgiris",
+      "ticker": "ZAL",
+      "decimals": 6
+    },
+    {
+      "policyId": "cd3745b018f30c2cc831a988aa1a162f12631901566b414be179d430",
+      "subject": "cd3745b018f30c2cc831a988aa1a162f12631901566b414be179d4305a4441",
+      "description": "Just another shit coin but better",
+      "name": "ZADA",
+      "ticker": "ZDA",
+      "decimals": 0
+    },
+    {
+      "policyId": "6b28f47c3d1f7d693d1bb05510458f0dfe4b019727cdc901e242f7a0",
+      "subject": "6b28f47c3d1f7d693d1bb05510458f0dfe4b019727cdc901e242f7a05a6962657242756773",
+      "description": "Governance token of ZiberBugs - Play 2 Earn NFT Autobattler on Cardano",
+      "name": "ZiberBugs",
+      "ticker": "ZIBER",
+      "decimals": 6
+    }
+  ]
+}
