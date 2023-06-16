@@ -28,7 +28,7 @@ jobs:
       - name: Push Schema
         uses: garygrossgarten/github-action-scp@release
         with:
-          local: /src/schema/tokenlist.cardano.schema.json
+          local: src/schema/tokenlist.cardano.schema.json
           remote: /var/www/tokenlist/tokenlist.cardano.schema.json
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
