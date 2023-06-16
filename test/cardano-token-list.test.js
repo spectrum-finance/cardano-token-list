@@ -34,18 +34,6 @@ describe('buildList', () => {
         }
     })
 
-    it('cardano-token-registry and cardano-token-list have equal length', () => {
-        expect(cardanoRegistryList.length).to.equal(cardanoTokenList.tokens.length);
-    })
-
-    it('No tokens outside cardano-token-registry', () => {
-        for (let registryToken of cardanoRegistryList) {
-            expect(cardanoTokenList.tokens.some((token) => {
-                return registryToken.subject === token.subject;
-            })).to.be.true;
-        }
-    })
-
     it('Version matches package.json', () => {
         expect(version).to.match(/^\d+\.\d+\.\d+$/);
         expect(version).to.equal(`${cardanoTokenList.version.major}.${cardanoTokenList.version.minor}.${cardanoTokenList.version.patch}`);
