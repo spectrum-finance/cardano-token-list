@@ -11,7 +11,7 @@ module.exports = function parseCardanoTokenRegistry() {
         const token = {};
 
         if (json.subject) {
-            token.policyId = json.subject.slice(0, 56);;
+            token.policyId = json.subject.slice(0, 56);
             token.subject = json.subject;
         } else {
             return;
