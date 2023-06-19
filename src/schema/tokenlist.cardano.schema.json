@@ -224,8 +224,7 @@
           "type": "string",
           "description": "A human-readable name for the token, suitable for use in an interface",
           "minLength": 1,
-          "maxLength": 40,
-          "pattern": "^\\$?[ \\w.'+\\-%\\/À-ÖØ-öø-ÿ:&\\[\\]\\(\\)]+$"
+          "maxLength": 40
         },
         "description": {
           "type": "string",
@@ -241,7 +240,6 @@
         "ticker": {
           "type": "string",
           "description": "The symbol for the token; must be alphanumeric",
-          "pattern": "^[a-zA-Z0-9+\\-%/$.]+$",
           "minLength": 1,
           "maxLength": 20,
           "examples": [
