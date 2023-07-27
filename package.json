@@ -9,9 +9,7 @@
     "build": "yarn upgrade github:cardano-foundation/cardano-token-registry && node index.js",
     "test": "mocha"
   },
-  "dependencies": {
-    "cardano-token-registry": "github:cardano-foundation/cardano-token-registry"
-  },
+  "dependencies": {},
   "devDependencies": {
     "ajv": "^8.12.0",
     "ajv-formats": "^2.1.1",
