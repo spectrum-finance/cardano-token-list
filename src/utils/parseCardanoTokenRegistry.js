@@ -4,8 +4,8 @@ const path = require("path");
 module.exports = function parseCardanoTokenRegistry() {
     let list = [];
 
-    fs.readdirSync(path.join(__dirname, "../../node_modules/cardano-token-registry/mappings")).forEach((fileName) => {
-        const file = fs.readFileSync(path.join(__dirname, `../../node_modules/cardano-token-registry/mappings/${fileName}`));
+    fs.readdirSync(path.join(__dirname, "../../cardano-token-registry/mappings")).forEach((fileName) => {
+        const file = fs.readFileSync(path.join(__dirname, `../../cardano-token-registry/mappings/${fileName}`));
         const json = JSON.parse(file.toString())
 
         const token = {};
