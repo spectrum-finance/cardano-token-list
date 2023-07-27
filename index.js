@@ -1,7 +1,6 @@
 const { version } = require('./package.json');
 const buildList = require('./src/buildList')
 const fs = require('fs');
-const path = require("path");
 
 async function run() {
     const list = await buildList();

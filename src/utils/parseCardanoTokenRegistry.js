@@ -2,8 +2,6 @@ const fs = require("fs");
 const path = require("path");
 const simpleGit = require("simple-git");
 
-const submodulePath = path.join(__dirname, 'cardano-token-registry');
-
 module.exports = function parseCardanoTokenRegistry() {
     return new Promise((resolve, reject) => {
         simpleGit().submoduleUpdate(['--init'], (err) => {
