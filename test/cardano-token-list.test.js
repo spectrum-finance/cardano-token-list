@@ -5,18 +5,15 @@ const schema = require('../src/schema/tokenlist.cardano.schema.json');
 const { expect } = require('chai');
 
 const buildList = require('../src/buildList.js');
-const parseCardanoTokenRegistry = require('../src/utils/parseCardanoTokenRegistry.js')
 
 const ajv = new Ajv({ allErrors: true, verbose: true });
 addFormats(ajv)
 
 const validate = ajv.compile(schema);
 
-const cardanoTokenList = buildList();
-const cardanoRegistryList = parseCardanoTokenRegistry();
-
 describe('buildList', () => {
-    it('The list matches the schema', () => {
+    it('The list matches the schema', async () => {
+        const cardanoTokenList = await buildList();
         const isValidList = validate(cardanoTokenList)
         if (!isValidList) {
             console.log(validate.errors);
@@ -24,7 +21,9 @@ describe('buildList', () => {
         expect(isValidList).to.equal(true);
     });
 
-    it('The list contains no duplicate subjects', () => {
+    it('The list contains no duplicate subjects', async () => {
+        const cardanoTokenList = await buildList();
+
         const map = {};
 
         for (let token of cardanoTokenList.tokens) {
@@ -34,7 +33,8 @@ describe('buildList', () => {
         }
     })
 
-    it('Version matches package.json', () => {
+    it('Version matches package.json', async () => {
+        const cardanoTokenList = await buildList();
         expect(version).to.match(/^\d+\.\d+\.\d+$/);
         expect(version).to.equal(`${cardanoTokenList.version.major}.${cardanoTokenList.version.minor}.${cardanoTokenList.version.patch}`);
     });
