@@ -5,21 +5,19 @@ on:
       - "main"
 jobs:
   release:
-    name: Push default token list
+    name: Publish Cardano Token List
     runs-on: ubuntu-latest
     steps:
-      - name: load repo
+      - name: Load Repo
         uses: actions/checkout@v3
-      - name: build
+      - name: Build
         uses: actions/setup-node@v1
         with:
           node-version: 14
       - run: |
           yarn install --frozen-lockfile
           yarn build
-      - name: Tests
-        run: yarn test
-      - name: Push List
+      - name: Publish The List
         uses: garygrossgarten/github-action-scp@release
         with:
           local: cardano-token-list.json
@@ -27,7 +25,7 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           privateKey: ${{ secrets.KEY }}
-      - name: Push Schema
+      - name: Publish Schema
         uses: garygrossgarten/github-action-scp@release
         with:
           local: src/schema/tokenlist.cardano.schema.json
