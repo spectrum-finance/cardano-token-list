@@ -1,5 +1,5 @@
 const {version} = require("../package.json");
-const cardano = require("./tokens.json");
+const cardanoLocalList = require("./tokens.json");
 const parseCardanoTokenRegistry = require('./utils/parseCardanoTokenRegistry.js')
 
 function sortList(list) {
@@ -21,10 +21,11 @@ function mergeBySubject(cardanoRegistryList, tokenList) {
     })
 }
 
-module.exports = function buildTokenList() {
+module.exports = async function buildTokenList() {
     const parsedVersion = version.split('.');
 
-    const cardanoRegistryList = parseCardanoTokenRegistry()
+    const cardanoRegistryList = await parseCardanoTokenRegistry();
+    console.log('cardano: ', cardanoRegistryList)
 
     return {
         name: 'Spectrum Finance Cardano Token List',
@@ -36,6 +37,6 @@ module.exports = function buildTokenList() {
         },
         tags: {},
         keywords: ['spectrum finance', 'tokens', 'cardano tokens'],
-        tokens: sortList(mergeBySubject(cardanoRegistryList, cardano))
+        tokens: sortList(mergeBySubject(cardanoRegistryList, cardanoLocalList))
     };
 }

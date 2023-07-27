@@ -1,43 +1,54 @@
 const fs = require("fs");
 const path = require("path");
+const simpleGit = require("simple-git");
+
+const submodulePath = path.join(__dirname, 'cardano-token-registry');
 
 module.exports = function parseCardanoTokenRegistry() {
-    let list = [];
-
-    fs.readdirSync(path.join(__dirname, "../../cardano-token-registry/mappings")).forEach((fileName) => {
-        const file = fs.readFileSync(path.join(__dirname, `../../cardano-token-registry/mappings/${fileName}`));
-        const json = JSON.parse(file.toString())
-
-        const token = {};
-
-        if (json.subject) {
-            token.policyId = json.subject.slice(0, 56);
-            token.subject = json.subject;
-        } else {
-            return;
-        }
-
-        if (json.name && json.name.value && json.name.value.length <= 40
-            && json.ticker && json.ticker.value
-            && json.decimals && json.decimals.value !== undefined
-        ) {
-
-            if (json.description && json.description.value) {
-                if (json.description.value.length > 300) {
-                    token.description = json.description.value.slice(0, 300).trim();
-                } else {
-                    token.description = json.description.value.trim();
-                }
+    return new Promise((resolve, reject) => {
+        simpleGit().submoduleUpdate(['--init'], (err) => {
+            if (err) {
+                console.error(err);
+                reject(err);
+                return;
             }
+            let list = [];
 
-            token.name = json.name.value.trim();
-            token.ticker = json.ticker.value.trim();
-            token.decimals = json.decimals.value;
+            // Read the submodule's files
+            fs.readdirSync(path.join(__dirname, "../../cardano-token-registry/mappings")).forEach((fileName) => {
+                const file = fs.readFileSync(path.join(__dirname, `../../cardano-token-registry/mappings/${fileName}`));
+                const json = JSON.parse(file.toString())
+                const token = {};
 
-            list.push(token);
-        }
+                if (json.subject) {
+                    token.policyId = json.subject.slice(0, 56);
+                    token.subject = json.subject;
+                } else {
+                    return;
+                }
 
+                if (json.name && json.name.value && json.name.value.length <= 40
+                    && json.ticker && json.ticker.value
+                    && json.decimals && json.decimals.value !== undefined
+                ) {
+
+                    if (json.description && json.description.value) {
+                        if (json.description.value.length > 300) {
+                            token.description = json.description.value.slice(0, 300).trim();
+                        } else {
+                            token.description = json.description.value.trim();
+                        }
+                    }
+
+                    token.name = json.name.value.trim();
+                    token.ticker = json.ticker.value.trim();
+                    token.decimals = json.decimals.value;
+
+                    list.push(token);
+                }
+
+            })
+            return resolve(list);
+        });
     })
-
-    return list;
 }

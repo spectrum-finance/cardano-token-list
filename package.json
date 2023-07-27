@@ -9,7 +9,9 @@
     "build": "node index.js",
     "test": "mocha"
   },
-  "dependencies": {},
+  "dependencies": {
+    "simple-git": "^3.19.1"
+  },
   "devDependencies": {
     "ajv": "^8.12.0",
     "ajv-formats": "^2.1.1",
