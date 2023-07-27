@@ -6,7 +6,7 @@
   "author": "Spectrum Finance",
   "license": "GPL-3.0-or-later",
   "scripts": {
-    "build": "yarn upgrade github:cardano-foundation/cardano-token-registry && node index.js",
+    "build": "node index.js",
     "test": "mocha"
   },
   "dependencies": {},
