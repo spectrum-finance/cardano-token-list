@@ -25,7 +25,6 @@ module.exports = async function buildTokenList() {
     const parsedVersion = version.split('.');
 
     const cardanoRegistryList = await parseCardanoTokenRegistry();
-    console.log('cardano: ', cardanoRegistryList)
 
     return {
         name: 'Spectrum Finance Cardano Token List',
