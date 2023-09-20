@@ -1,6 +1,6 @@
 {
   "name": "@spectrum-finance/cardano-token-list",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Spectrum Finance Cardano token list",
   "main": "index.js",
   "author": "Spectrum Finance",
