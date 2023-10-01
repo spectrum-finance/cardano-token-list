@@ -1,33 +1,27 @@
-name: Cron. Build and Deploy
+name: Update Submodules
+
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/10 * * * *'
 
 jobs:
-  release:
-    name: Deploy
+  update-submodules:
     runs-on: ubuntu-latest
-    steps:
-      - name: Load Repo
-        uses: actions/checkout@v3
 
-      - name: Update Submodule
+    steps:
+      - name: Check Out Repository
+        uses: actions/checkout@v2
+
+      - name: Update Submodules
         run: |
           git submodule update --remote
 
-      - name: Build
-        uses: actions/setup-node@v1
-        with:
-          node-version: 14
-      - run: |
-          yarn install --frozen-lockfile
-          yarn build
-
-      - name: Publish The List
-        uses: garygrossgarten/github-action-scp@release
-        with:
-          local: cardano-token-list.json
-          remote: /var/www/tokenlist/cardano-token-list.json
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
-          privateKey: ${{ secrets.KEY }}
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "Spectrum Labs Bot"
+          git config user.email "admin@spectrumlabs.fi"
+          git add .
+          git commit -m "Update submodules"
+          git push --set-upstream origin $GITHUB_REF
