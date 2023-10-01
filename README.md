@@ -1,6 +1,6 @@
 # @spectrum-finance/cardano-token-list
 
-This repository contains a cron which updates Spectrum Finance cardano-token-list based on [cardano-token-registry](https://github.com/cardano-foundation/cardano-token-registry) every 10 minutes.
+This repository contains a cron which updates Spectrum Finance [cardano-token-list](https://spectrum.fi/cardano-token-list.json) based on [cardano-token-registry](https://github.com/cardano-foundation/cardano-token-registry) every 10 minutes.
 
 ### My token is in cardano-token-registry, but I can see it in the cardano-token-list
 
