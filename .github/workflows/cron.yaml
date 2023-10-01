@@ -1,11 +1,11 @@
-name: Update Submodules
+name: Update Submodule
 
 on:
   schedule:
     - cron: '* * * * *'
 
 jobs:
-  update-submodules:
+  update-submodule:
     runs-on: ubuntu-latest
 
     steps:
