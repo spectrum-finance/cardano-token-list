@@ -48,6 +48,12 @@ module.exports = function parseCardanoTokenRegistry() {
                     token.name = json.name.value.trim();
                 }
 
+                if (json.url && json.url.value) {
+                    token.url = json.url.value.trim();
+                } else {
+                    token.url = ''
+                }
+
                 list.push(token);
             })
             return resolve(list);
