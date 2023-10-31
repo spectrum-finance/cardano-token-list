@@ -7,7 +7,7 @@ async function run() {
     const tokenList = JSON.stringify(list, null, 2)
     fs.writeFile('cardano-token-list.json', tokenList, 'utf8', function(err) {
         if (err) {
-            console.log("An error occured while writing JSON Object to File.");
+            console.log("An error occured while writing JSON Object to File. ");
             return console.log(err);
         }
 
