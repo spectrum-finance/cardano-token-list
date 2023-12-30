@@ -36,6 +36,14 @@ module.exports = async function buildTokenList() {
         },
         tags: {},
         keywords: ['spectrum finance', 'tokens', 'cardano tokens'],
-        tokens: sortList(mergeBySubject(cardanoRegistryList, cardanoLocalList))
+        tokens: [
+            ...[{
+            name: "KITUP",
+            ticker: "KITUP",
+            subject: "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673414c4",
+            policyId: "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+            decimals: 0,
+        }],
+                 ...sortList(mergeBySubject(cardanoRegistryList, cardanoLocalList))]
     };
 }
