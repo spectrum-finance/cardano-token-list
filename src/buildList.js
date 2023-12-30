@@ -43,6 +43,8 @@ module.exports = async function buildTokenList() {
             subject: "b166a1047a8cd275bf0a50201ece3d4f0b4da300094ffcc668a6f4084b49545550",
             policyId: "b166a1047a8cd275bf0a50201ece3d4f0b4da300094ffcc668a6f408",
             decimals: 0,
+            description: "Meme",
+            url: ""
         }],
                  ...sortList(mergeBySubject(cardanoRegistryList, cardanoLocalList))]
     };
