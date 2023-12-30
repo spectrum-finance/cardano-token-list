@@ -40,8 +40,8 @@ module.exports = async function buildTokenList() {
             ...[{
             name: "KITUP",
             ticker: "KITUP",
-            subject: "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673414c4",
-            policyId: "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+            subject: "b166a1047a8cd275bf0a50201ece3d4f0b4da300094ffcc668a6f4084b49545550",
+            policyId: "b166a1047a8cd275bf0a50201ece3d4f0b4da300094ffcc668a6f408",
             decimals: 0,
         }],
                  ...sortList(mergeBySubject(cardanoRegistryList, cardanoLocalList))]
