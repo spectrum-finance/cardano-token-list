@@ -62,7 +62,7 @@ module.exports = async function buildTokenList() {
           name: "COPE",
           ticker: "COPE",
           subject:
-              "0b3518ac0f78ced3de283dce6c997228cff2b07c283a16530efd700f434F5045",
+              "0b3518ac0f78ced3de283dce6c997228cff2b07c283a16530efd700f434f5045",
           policyId: "0b3518ac0f78ced3de283dce6c997228cff2b07c283a16530efd700f",
           decimals: 0,
           description: "Meme",
