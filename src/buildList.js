@@ -49,8 +49,8 @@ module.exports = async function buildTokenList() {
           url: "",
         },
         {
-          name: "TSURU",
-          ticker: "TSURU",
+          name: "TOOL",
+          ticker: "TOOL",
           subject:
             "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d735453555255",
           policyId: "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d73",
