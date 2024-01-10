@@ -68,6 +68,16 @@ module.exports = async function buildTokenList() {
           description: "Meme",
           url: "",
         },
+        {
+          name: "AI",
+          ticker: "AI",
+          subject:
+              "d542ad1dc269ae601125e8259cb8427c6b37c1d3569d10441df0291f4149",
+          policyId: "d542ad1dc269ae601125e8259cb8427c6b37c1d3569d10441df0291f",
+          decimals: 0,
+          description: "Meme",
+          url: "",
+        },
       ],
       ...sortList(mergeBySubject(cardanoRegistryList, cardanoLocalList)),
     ],
