@@ -62,7 +62,7 @@ module.exports = async function buildTokenList() {
           name: "COPE",
           ticker: "COPE",
           subject:
-              "0b3518ac0f78ced3de283dce6c997228cff2b07c283a16530efd700f434f5045",
+            "0b3518ac0f78ced3de283dce6c997228cff2b07c283a16530efd700f434f5045",
           policyId: "0b3518ac0f78ced3de283dce6c997228cff2b07c283a16530efd700f",
           decimals: 0,
           description: "Meme",
@@ -72,8 +72,18 @@ module.exports = async function buildTokenList() {
           name: "AI",
           ticker: "AI",
           subject:
-              "d542ad1dc269ae601125e8259cb8427c6b37c1d3569d10441df0291f4149",
+            "d542ad1dc269ae601125e8259cb8427c6b37c1d3569d10441df0291f4149",
           policyId: "d542ad1dc269ae601125e8259cb8427c6b37c1d3569d10441df0291f",
+          decimals: 0,
+          description: "Meme",
+          url: "",
+        },
+        {
+          name: "R1CH",
+          ticker: "R1CH",
+          subject:
+            "32569e3583d126fc5f3bd1f44d9e09bde77542d762c3796fa551fc6052314348",
+          policyId: "32569e3583d126fc5f3bd1f44d9e09bde77542d762c3796fa551fc60",
           decimals: 0,
           description: "Meme",
           url: "",
